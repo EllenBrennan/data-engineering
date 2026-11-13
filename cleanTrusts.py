@@ -32,9 +32,9 @@ for sheetName in sheets:
     staffCosts = df.iloc[4:215, 8]
     debt = df.iloc[4:215, 14]
     totalCosts = df.iloc[4:215, 23]
-    print(trustNames)
+    #print(trustNames)
 
-    clean = pd.DataFrame({
+    entries = pd.DataFrame({
         "name": trustNames.values,
         "orgCode": orgCodes.values,
         "supplies": supplies.values,
@@ -43,6 +43,8 @@ for sheetName in sheets:
         "debt" : debt.values,
         "totalCosts" : totalCosts.values
     })
+
+    clean = entries.dropna() #getting rid of empty cells
     clean.to_csv('trusts.csv' , mode = 'a', header=False, index=False)
 
-print(clean.head())
+#print(clean.head())
