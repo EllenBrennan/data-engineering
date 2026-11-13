@@ -41,6 +41,6 @@ for sheetName in sheets:
     })
 
     clean = entries.dropna() #getting rid of empty cells
-    clean.to_csv('trusts.csv' , mode = 'a', header=False, index=False)
+    clean.to_csv('trusts.csv' , mode = 'a', header=True, index=False)
 
 #print(clean.head())

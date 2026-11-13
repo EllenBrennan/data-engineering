@@ -1,3 +1,4 @@
+name,orgCode,supplies,transport,staffCosts,debt,totalCosts
 5 Boroughs Partnership NHS Trust,RTV,4781.0,451.0,70512.0,0.0,90932.0
 Aintree University Hospitals NHS Foundation Trust,REM,9450.0,387.0,44390.0,35.0,64165.0
 Airedale NHS Trust,RCF,12508.0,352.0,68794.0,-55.0,97009.0
@@ -208,6 +209,7 @@ Worthing And Southlands Hospitals NHS Trust,RPL,15995.0,164.0,96517.0,2.0,144039
 Yeovil District Hospital NHS Foundation Trust,RA4,1596.0,31.0,8406.0,63.0,13377.0
 York Hospitals NHS Trust,RCB,30992.0,672.0,122949.0,223.0,180536.0
 Yorkshire Ambulance Service NHS Trust,RX8,1647.0,14418.0,107071.0,653.0,147360.0
+name,orgCode,supplies,transport,staffCosts,debt,totalCosts
 5 Boroughs Partnership NHS Trust,RTV,71994.0,1262.0,1060.0,323.0,0.0
 Airedale NHS Trust,RCF,75536.0,393.0,646.0,369.0,0.0
 Ashford And St Peter's Hospitals NHS Trust,RTK,116185.0,1210.0,911.0,365.0,372.0
@@ -386,6 +388,7 @@ Worcestershire Mental Health Partnership NHS Trust,RWQ,41400.0,141.0,438.0,728.0
 Worthing And Southlands Hospitals NHS Trust,RPL,100796.0,0.0,721.0,149.0,147.0
 "Wrightington, Wigan And Leigh NHS Trust",RRF,132836.0,1102.0,846.0,1007.0,880.0
 Yorkshire Ambulance Service NHS Trust,RX8,109125.0,809.0,930.0,15408.0,794.0
+name,orgCode,supplies,transport,staffCosts,debt,totalCosts
 5 Boroughs Partnership NHS Trust,RTV,74443.0,567.0,938.0,363.0,65.0
 Airedale NHS Trust,RCF,81186.0,219.0,675.0,359.0,1.0
 Alder Hey Childrens NHS Foundation Trust,RBS,34989.0,164.0,369.0,139.0,0.0

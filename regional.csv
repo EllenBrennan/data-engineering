@@ -1,3 +1,5 @@
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 England,2009,09,1154679,102172,5861,315436,17666,215502
 England,2009,10,1160629,102400,5940,317736,17849,216512
 England,2009,11,1164502,102616,6044,318261,17909,218304
@@ -78,6 +80,7 @@ England,2016,01,1161884,111158,8168,318640,19060,183409
 England,2016,02,1164546,110944,7977,319175,19192,182953
 England,2016,03,1164471,110732,7889,318912,19406,183069
 England,2016,04,1163873,110602,7830,318804,19524,182827
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 East Midlands,2009,09,91587,6928,373,24716,1572,19647
 East Midlands,2009,10,92124,6908,349,24950,1589,19722
 East Midlands,2009,11,92454,6933,366,25036,1580,19831
@@ -158,6 +161,7 @@ East Midlands,2016,01,89569,7622,481,25350,1763,13126
 East Midlands,2016,02,89711,7582,494,25309,1780,13142
 East Midlands,2016,03,89750,7590,491,25313,1805,13132
 East Midlands,2016,04,89499,7586,471,25268,1855,12948
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 East of England,2009,09,106793,9261,616,28904,1868,18494
 East of England,2009,10,107472,9313,630,29116,1858,18786
 East of England,2009,11,108020,9337,631,29251,1843,18929
@@ -238,6 +242,7 @@ East of England,2016,01,103753,9856,813,28315,1837,16316
 East of England,2016,02,104159,9883,803,28393,1829,16391
 East of England,2016,03,104175,9848,790,28436,1858,16375
 East of England,2016,04,104070,9842,792,28415,1891,16346
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 Yorkshire and the Humber,2009,09,132195,10505,714,34608,1659,27229
 Yorkshire and the Humber,2009,10,132753,10501,724,34766,1684,27380
 Yorkshire and the Humber,2009,11,132906,10500,795,34872,1683,27412
@@ -318,6 +323,7 @@ Yorkshire and the Humber,2016,01,124140,10648,799,32292,1644,21872
 Yorkshire and the Humber,2016,02,124216,10553,755,32286,1640,21833
 Yorkshire and the Humber,2016,03,124200,10518,743,32215,1655,21913
 Yorkshire and the Humber,2016,04,123780,10502,734,31900,1694,21882
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 Wessex,2009,09,54602,4852,202,15509,71,9491
 Wessex,2009,10,54933,4892,199,15779,71,9489
 Wessex,2009,11,55603,4882,202,15704,71,10233
@@ -398,6 +404,7 @@ Wessex,2016,01,55743,5416,332,15783,68,8166
 Wessex,2016,02,56024,5446,334,15841,68,8084
 Wessex,2016,03,55991,5439,332,15816,67,8015
 Wessex,2016,04,55503,5445,335,15835,68,7994
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 Thames Valley,2009,09,41226,3842,335,11202,982,6322
 Thames Valley,2009,10,41221,3857,353,11170,979,6316
 Thames Valley,2009,11,41409,3858,349,11222,969,6370
@@ -478,6 +485,7 @@ Thames Valley,2016,01,38463,3885,326,10402,1134,4800
 Thames Valley,2016,02,38681,3896,306,10459,1147,4806
 Thames Valley,2016,03,38631,3876,292,10433,1144,4807
 Thames Valley,2016,04,38630,3881,268,10413,1139,4810
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 North West London,2009,09,45351,5348,371,12577,3134,6773
 North West London,2009,10,45599,5383,402,12664,3148,6807
 North West London,2009,11,45895,5391,409,12671,3171,6873
@@ -558,6 +566,7 @@ North West London,2016,01,52857,6003,546,14698,2562,7133
 North West London,2016,02,53062,5928,528,14768,2646,7111
 North West London,2016,03,53201,5909,514,14832,2748,7113
 North West London,2016,04,52921,5893,506,14760,2726,7025
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 South London,2009,09,59314,7261,439,16993,-,9699
 South London,2009,10,59873,7348,446,17205,-,9659
 South London,2009,11,60392,7412,447,17384,-,9753
@@ -638,6 +647,7 @@ South London,2016,01,61051,8229,777,18311,12,8401
 South London,2016,02,61106,8269,757,18334,13,8333
 South London,2016,03,60981,8229,756,18312,13,8330
 South London,2016,04,61040,8237,750,18257,12,8403
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 North Central and East London,2009,09,66333,8589,358,18980,-,10545
 North Central and East London,2009,10,66945,8644,376,19118,-,10623
 North Central and East London,2009,11,67249,8647,385,19207,-,10686
@@ -718,6 +728,7 @@ North Central and East London,2016,01,71578,9603,509,20632,4,9322
 North Central and East London,2016,02,71726,9600,500,20635,4,9344
 North Central and East London,2016,03,71808,9640,503,20525,4,9362
 North Central and East London,2016,04,71718,9578,506,20512,5,9346
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 "Kent, Surrey and Sussex",2009,09,82199,6995,182,21450,1715,15345
 "Kent, Surrey and Sussex",2009,10,82457,7014,206,21568,1722,15367
 "Kent, Surrey and Sussex",2009,11,82650,7043,207,21567,1721,15456
@@ -798,6 +809,7 @@ North Central and East London,2016,04,71718,9578,506,20512,5,9346
 "Kent, Surrey and Sussex",2016,02,87204,8530,394,22217,1673,14799
 "Kent, Surrey and Sussex",2016,03,87282,8532,395,22229,1686,14845
 "Kent, Surrey and Sussex",2016,04,87299,8511,395,22311,1659,14792
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 North East,2009,09,70300,5621,337,20135,732,13709
 North East,2009,10,70635,5617,337,20235,730,13790
 North East,2009,11,70497,5599,334,20137,744,13799
@@ -878,6 +890,7 @@ North East,2016,01,72811,6349,554,20706,736,12052
 North East,2016,02,72772,6319,536,20717,738,11949
 North East,2016,03,72684,6297,532,20731,745,11912
 North East,2016,04,72511,6308,536,20688,746,11848
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 North West,2009,09,182041,14759,849,50145,2255,36442
 North West,2009,10,182838,14734,856,50524,2369,36564
 North West,2009,11,183301,14793,858,50618,2426,36762
@@ -958,6 +971,7 @@ North West,2016,01,184181,15498,1421,51345,3142,31914
 North West,2016,02,184507,15459,1382,51350,3173,31511
 North West,2016,03,184616,15461,1368,51292,3178,31664
 North West,2016,04,184621,15427,1371,51433,3215,31577
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 West Midlands,2009,09,124701,10331,640,34103,1696,23223
 West Midlands,2009,10,125491,10325,632,34412,1720,23425
 West Midlands,2009,11,125740,10359,631,34402,1716,23542
@@ -1038,6 +1052,7 @@ West Midlands,2016,01,128544,11187,630,35205,2387,20157
 West Midlands,2016,02,128849,11203,615,35310,2407,20219
 West Midlands,2016,03,128660,11141,604,35210,2409,20205
 West Midlands,2016,04,128562,11132,598,35117,2423,20153
+regionName,year,month,total_staff,doctors,studentDoctors,nurses,ambulanceStaff,infrastructure
 South West,2009,09,98968,8158,446,26293,1982,18601
 South West,2009,10,99153,8120,430,26393,1979,18600
 South West,2009,11,99300,8134,430,26373,1985,18684

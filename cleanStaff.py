@@ -35,4 +35,4 @@ for sheet in sheetNames:
     })
     print(clean.head())
 
-    clean.to_csv('regional.csv' , mode = 'a', header=False, index=False)
+    clean.to_csv('regional.csv' , mode = 'a', header=True, index=False)
