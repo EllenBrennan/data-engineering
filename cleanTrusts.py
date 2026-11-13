@@ -4,10 +4,6 @@ import csv
 import xlrd
 from pathlib import Path
 
-# Source - https://stackoverflow.com/a/39615001
-# Posted by Jingtao Yao
-# Retrieved 2026-11-13, License - CC BY-SA 3.0
-
 #the trusts file is protected so can't read it directly as a pandas dataframe
 
 import win32com.client 
