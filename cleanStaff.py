@@ -4,6 +4,7 @@ import csv
 
 file = pd.ExcelFile('nhsStaff.xlsx')
 sheetNames = file.sheet_names
+headers = True
 
 for sheet in sheetNames:
     print(sheet)
@@ -34,5 +35,5 @@ for sheet in sheetNames:
         "infrastructure": infrastructure.values
     })
     print(clean.head())
-
-    clean.to_csv('regional.csv' , mode = 'a', header=True, index=False)
+    clean.to_csv('regional.csv' , mode = 'a', header=headers, index=False)
+    headers = False #headers were being added in everytime I added a sheet in, so turned them off after the first sheet so it would turn to one table

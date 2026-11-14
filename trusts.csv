@@ -1,540 +1,538 @@
-name,orgCode,supplies,transport,staffCosts,debt,totalCosts
-5 Boroughs Partnership NHS Trust,RTV,4781.0,451.0,70512.0,0.0,90932.0
-Aintree University Hospitals NHS Foundation Trust,REM,9450.0,387.0,44390.0,35.0,64165.0
-Airedale NHS Trust,RCF,12508.0,352.0,68794.0,-55.0,97009.0
-Ashford And St Peter's Hospitals NHS Trust,RTK,28303.0,365.0,113305.0,-22.0,178269.0
-Avon And Wiltshire Mental Health Partnership NHS Trust,RVN,5566.0,108.0,122893.0,-4.0,179970.0
-"Barking, Havering And Redbridge Hospitals NHS Trust",RF4,51304.0,576.0,244446.0,610.0,380462.0
-Barnet And Chase Farm Hospitals NHS Trust,RVL,33238.0,1075.0,163832.0,550.0,251284.0
-"Barnet, Enfield And Haringey Mental Health NHS Trust",RRP,4285.0,1582.0,108917.0,699.0,177865.0
-Barts And The London NHS Trust,RNJ,110805.0,1956.0,305579.0,705.0,535215.0
-Basingstoke And North Hampshire Hospitals NHS Foundation Trust,RN5,15297.0,113.0,51416.0,81.0,80781.0
-Bedford Hospital NHS Trust,RC1,14047.0,638.0,74824.0,297.0,107928.0
-Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,RV7,1457.0,424.0,60960.0,171.0,79049.0
-Berkshire Healthcare NHS Trust,RWX,2214.0,150.0,58677.0,92.0,99169.0
-Birmingham And Solihull Mental Health NHS Trust,RXT,6623.0,648.0,138835.0,48.0,205543.0
-Birmingham Children's Hospital NHS Foundation Trust,RQ3,23321.0,651.0,80915.0,180.0,120422.0
-Birmingham Women's Health Care NHS Trust,RLU,6710.0,508.0,46187.0,2.0,68177.0
-"Blackpool, Fylde And Wyre Hosps NHS Trust",RXL,36538.0,423.0,130755.0,187.0,229612.0
-Bolton Hospitals NHS Trust,RMC,17939.0,525.0,108887.0,3.0,152558.0
-"Bolton, Salford And Trafford Mental Health NHS Trust",RXV,5385.0,281.0,86348.0,153.0,114198.0
-Bradford District Care NHS Trust,TAD,4319.0,2698.0,73100.0,64.0,116387.0
-Brighton And Sussex University Hospitals NHS Trust,RXH,58641.0,3597.0,196906.0,1475.0,326816.0
-Bromley Hospitals NHS Trust,RG3,22605.0,1992.0,102743.0,80.0,157167.0
-Buckinghamshire Hospitals NHS Trust,RXQ,35126.0,1986.0,153939.0,-38.0,242808.0
-Burton Hospitals NHS Trust,RJF,14687.0,151.0,74766.0,45.0,109571.0
-Calderdale And Huddersfield NHS Foundation Trust,RWY,9488.0,275.0,53702.0,16.0,81804.0
-Calderstones NHS Trust,RJX,269.0,129.0,35762.0,0.0,42179.0
-Cambs & Peterborough MH Partnership NHS Trust,RT1,6742.0,2418.0,87534.0,30.0,126477.0
-Camden And Islington Mental Health Social Care NHS Trust,TAF,3099.0,0.0,81063.0,25.0,130013.0
-Central And North West London MH NHS Trust,RV3,5834.0,1324.0,135264.0,0.0,177856.0
-Central Manchester/ Manchester Children's University Hospitals NHS Trust,RW3,100770.0,1605.0,298453.0,53.0,500964.0
-Chelsea And Westminster Hospital NHS Foundation Trust,RQM,23286.0,247.0,62340.0,587.0,112351.0
-Cheshire And Wirral Partnership NHS Trust,RXA,3362.0,157.0,82969.0,27.0,106561.0
-Christie Hospital NHS Trust,RBV,35983.0,20.0,59248.0,4.0,124181.0
-Clatterbridge Centre For Oncology NHS Foundation Trust,REN,4566.0,1.0,7011.0,0.0,15008.0
-Cornwall Partnership NHS Trust,RJ8,2062.0,1388.0,61801.0,12.0,87222.0
-County Durham And Darlington NHS Foundation Trust,RXP,30781.0,2310.0,147965.0,411.0,232670.0
-Coventry And Warwickshire Partnership NHS Trust,RYG,2438.0,180.0,48646.0,285.0,70852.0
-Dartford And Gravesham NHS Trust,RN7,14579.0,0.0,63723.0,3.0,111061.0
-Derbyshire Mental Health Services NHS Trust,RXM,2391.0,101.0,68395.0,80.0,89140.0
-Devon Partnership NHS Trust,RWV,2791.0,311.0,72727.0,9.0,103420.0
-Doncaster And South Humber Hlthcare NHS Trust,RXE,5897.0,866.0,62953.0,3.0,88162.0
-Dorset Health Care NHS Trust,RDY,1602.0,432.0,52284.0,5.0,71062.0
-Dudley Group Of Hospitals NHS Trust,RNA,21323.0,1565.0,107140.0,110.0,192854.0
-Ealing Hospital NHS Trust,RC3,23869.0,185.0,68981.0,967.0,112758.0
-East And North Hertfordshire NHS Trust,RWH,41573.0,807.0,172835.0,229.0,265318.0
-East Cheshire NHS Trust,RJN,11564.0,217.0,65283.0,-29.0,100224.0
-East Kent Hospitals NHS Trust,RVV,66286.0,2441.0,224254.0,286.0,359203.0
-East Lancashire Hospitals NHS Trust,RXR,29806.0,303.0,187348.0,97.0,282980.0
-East London And The City MH NHS Trust,RWK,4276.0,796.0,102454.0,340.0,153616.0
-East Midlands Ambulance Service NHS Trust,RX9,2648.0,12828.0,88621.0,2.0,123199.0
-East Of England Ambulance Service NHS Trust,RYC,3638.0,23067.0,130240.0,40.0,186001.0
-East Sussex Hospitals NHS Trust,RXC,34933.0,2111.0,158595.0,-57.0,228789.0
-Epsom And St Helier University Hospitals NHS Trust,RVR,44719.0,2893.0,175680.0,55.0,272488.0
-Essex Rivers Healthcare NHS Trust,RDE,27013.0,1706.0,101028.0,41.0,162166.0
-George Eliot Hospital NHS Trust,RLT,12209.0,66.0,59559.0,71.0,89823.0
-Gloucestershire Partnership NHS Trust,RTQ,2913.0,632.0,51149.0,35.0,72004.0
-Good Hope Hospital NHS Trust,RJH,17979.0,185.0,84411.0,132.0,128992.0
-Great Ormond Street Hospital NHS Trust,RP4,52782.0,2444.0,145561.0,1804.0,242040.0
-Great Western Ambulance Service NHS Trust,RX5,1072.0,6277.0,41344.0,6.0,62219.0
-Hammersmith Hospitals NHS Trust,RQN,97213.0,6727.0,272579.0,276.0,484259.0
-Hampshire Partnership NHS Trust,RW1,4790.0,1018.0,125407.0,20.0,172536.0
-Heatherwood And Wexham Park Hosps NHS Trust,RD7,24734.0,713.0,121007.0,660.0,177005.0
-Hereford Hospitals NHS Trust,RLQ,12825.0,86.0,53574.0,49.0,91582.0
-Hertfordshire Partnership NHS Trust,RWR,4158.0,1262.0,106969.0,-408.0,169091.0
-Hinchingbrooke Healthcare NHS Trust,RQQ,14678.0,5.0,50028.0,90.0,82889.0
-Hull And East Yorkshire Hospitals NHS Trust,RWA,70279.0,736.0,227596.0,0.0,358844.0
-Humber Mental Health Teaching NHS Trust,RV9,930.0,252.0,53507.0,135.0,71228.0
-Ipswich Hospital NHS Trust,RGQ,29590.0,493.0,115142.0,85.0,176632.0
-James Paget University Hospitals NHS Foundation Trust,RGP,5920.0,37.0,30864.0,0.0,42515.0
-Kent And Medway NHS And Social Care Partnership NHS Trust,RXY,7350.0,1244.0,129005.0,807.0,177433.0
-Kettering General Hospital NHS Trust,RNQ,15577.0,189.0,90739.0,0.0,126357.0
-King's College Hospital NHS Foundation Trust,RJZ,50092.0,2377.0,166084.0,806.0,273376.0
-Kingston Hospital NHS Trust,RAX,20304.0,851.0,106743.0,38.0,158157.0
-Lancashire Care NHS Trust,RW5,4218.0,513.0,111015.0,0.0,149300.0
-Leeds Mental Health Teaching NHS Trust,RGD,3475.0,1461.0,73918.0,0.0,101426.0
-Leeds Teaching Hospitals NHS Trust,RR8,156204.0,8746.0,484918.0,1726.0,743067.0
-Leicestershire Partnership NHS Trust,RT5,5489.0,141.0,98255.0,-9.0,130090.0
-Lincolnshire Partnership NHS Trust,RP7,1204.0,453.0,58408.0,10.0,85383.0
-London Ambulance Service NHS Trust,RRU,4057.0,16154.0,160953.0,8.0,212068.0
-Luton And Dunstable Hospital NHS Foundation Trust,RC9,8033.0,25.0,32857.0,26.0,50228.0
-Maidstone And Tunbridge Wells NHS Trust,RWF,38475.0,516.0,155020.0,288.0,240714.0
-Manchester Mental Health And Social Care NHS Trust,TAE,2103.0,331.0,56529.0,137.0,85455.0
-Mayday Healthcare NHS Trust,RJ6,23692.0,1004.0,111526.0,519.0,161783.0
-Medway NHS Trust,RPA,23094.0,220.0,108088.0,12.0,159504.0
-Mersey Care NHS Trust,RW4,5668.0,435.0,143077.0,213.0,187810.0
-Mid Essex Hospital Services NHS Trust,RQ8,27854.0,435.0,112359.0,19.0,182336.0
-Mid Staffordshire Gen Hospitals NHS Trust,RJD,12987.0,234.0,77242.0,55.0,121754.0
-Mid Yorkshire Hospitals NHS Trust,RXF,46180.0,655.0,215164.0,121.0,312769.0
-Milton Keynes General Hospital NHS Trust,RD8,14946.0,165.0,76358.0,95.0,113705.0
-N Essex Mental Health Partnership NHS Trust,RRD,2133.0,793.0,70301.0,0.0,116794.0
-Newcastle Upon Tyne Hospitals NHS Foundation Trust,RTD,20562.0,161.0,58136.0,46.0,93807.0
-Newham University Hospital NHS Trust,RNH,14129.0,1666.0,84943.0,10.0,135600.0
-Norfolk And Norwich Uni Hosp NHS Trust,RM1,55686.0,3331.0,181032.0,375.0,309267.0
-Norfolk And Waveney MH Partnership NHS Trust,RMY,2652.0,838.0,69113.0,49.0,100147.0
-North Bristol NHS Trust,RVJ,55078.0,574.0,253655.0,589.0,373106.0
-North Cheshire Hospitals NHS Trust,RWW,23627.0,318.0,113443.0,345.0,161762.0
-North Cumbria Acute Hospitals NHS Trust,RNL,30929.0,1919.0,113859.0,82.0,180464.0
-North East Ambulance Service NHS Trust,RX6,1108.0,7642.0,50298.0,0.0,71800.0
-North East London Mental Health NHS Trust,RAT,3106.0,255.0,73282.0,28.0,98865.0
-North Lincolnshire And Goole Hosps NHS Trust,RJL,32206.0,575.0,156921.0,-43.0,232351.0
-North Middlesex University Hospital NHS Trust,RAP,19186.0,129.0,82159.0,1200.0,135698.0
-North Staffordshire Combined Healthcare NHS Trust,RLY,2584.0,109.0,65297.0,44.0,89084.0
-North Tees And Hartlepool NHS Trust,RVW,23711.0,485.0,123722.0,5.0,183937.0
-North West Ambulance Service NHS Trust,RX7,3107.0,22248.0,138708.0,53.0,193940.0
-North West London Hospitals NHS Trust,RV8,45148.0,2116.0,185383.0,280.0,289707.0
-Northampton General Hospital NHS Trust,RNS,30041.0,844.0,116465.0,83.0,170167.0
-Northamptonshire Healthcare NHS Trust,RP1,6148.0,914.0,67035.0,13.0,95537.0
-Northern Devon Healthcare NHS Trust,RBZ,11582.0,539.0,65447.0,0.0,94519.0
-"Northumberland, Tyne And Wear NHS Trust",RX4,9374.0,2117.0,208761.0,102.0,271905.0
-Northumbria Healthcare NHS Foundation Trust,RTF,11087.0,133.0,56714.0,181.0,83690.0
-Nottingham University Hospitals NHS Trust,RX1,108347.0,4681.0,370955.0,4557.0,576854.0
-Nottinghamshire Healthcare NHS Trust,RHA,6126.0,1658.0,189769.0,36.0,250644.0
-Nth Cumbria MH And Learning Disab NHS Trust,RNN,1454.0,272.0,35850.0,83.0,48277.0
-Nuffield Orthopaedic Centre NHS Trust,RBF,14035.0,23.0,30638.0,-6.0,77316.0
-Oxford Learning Disability NHS Trust,RHX,41.0,86.0,28485.0,0.0,34777.0
-Oxford Radcliffe Hospital NHS Trust,RTH,98425.0,5596.0,298405.0,838.0,482957.0
-Oxfordshire And Buckinghamshire MH Partnership NHS Trust,RNU,18099.0,502.0,86788.0,0.0,138377.0
-Oxleas NHS Foundation Trust,RPG,270.0,21.0,6504.0,-12.0,11567.0
-Pennine Acute Hospitals NHS Trust,RW6,62716.0,1055.0,311381.0,48.0,469088.0
-Pennine Care NHS Trust,RT2,2719.0,226.0,75141.0,3.0,100088.0
-Plymouth Hospitals NHS Trust,RK9,58777.0,165.0,195690.0,449.0,306926.0
-Poole Hospitals NHS Trust,RD3,22150.0,380.0,102487.0,-19.0,148234.0
-Portsmouth Hospitals NHS Trust,RHU,82125.0,4603.0,205559.0,403.0,366932.0
-Princess Alexandra Hospital NHS Trust,RQW,19208.0,722.0,86304.0,32.0,131895.0
-Queen Elizabeth Hospital Kings Lynn NHS Trust,RCX,16619.0,282.0,72901.0,14.0,110349.0
-Queen Elizabeth Hospital NHS Trust,RG2,23124.0,257.0,92603.0,563.0,153006.0
-Queen Mary's Sidcup NHS Trust,RGZ,14236.0,107.0,66948.0,84.0,98896.0
-Robert Jones And Agnes Hunt Orthopaedic NHS Trust,RL1,15221.0,695.0,34213.0,21.0,59576.0
-Royal Berkshire Hospital NHS Foundation Trust,RHW,7507.0,235.0,22972.0,20.0,34780.0
-Royal Brompton And Harefield NHS Trust,RT3,47224.0,1806.0,123042.0,159.0,203545.0
-Royal Cornwall Hospitals NHS Trust,REF,43072.0,557.0,154211.0,63.0,265400.0
-Royal Free Hampstead NHS Trust,RAL,106860.0,710.0,211928.0,1277.0,367665.0
-Royal Liverpool Broadgreen Hospitals NHS Trust,RQ6,60924.0,644.0,184807.0,123.0,306289.0
-Royal Liverpool Childrens NHS Trust,RBS,18495.0,210.0,92932.0,75.0,132800.0
-Royal Orthopaedic Hospital NHS Foundation Trust,RRJ,10378.0,128.0,22426.0,-214.0,39864.0
-Royal Surrey County Hospital NHS Trust,RA2,30118.0,152.0,93567.0,-7.0,147951.0
-Royal United Hospital Bath NHS Trust,RD1,27624.0,432.0,113564.0,415.0,173295.0
-Royal Wolverhampton Hospital NHS Trust,RL4,36447.0,85.0,146445.0,77.0,227050.0
-Salford Royal NHS Foundation Trust,RM3,13227.0,470.0,46036.0,-80.0,72955.0
-Salisbury NHS Foundation Trust,RNZ,3116.0,80.0,15346.0,0.0,22753.0
-Sandwell And West Birmingham Hospitals NHS Trust,RXK,39873.0,1205.0,219519.0,-702.0,315827.0
-Sandwell Mental Health Social Care NHS Trust,TAJ,1148.0,53.0,32080.0,58.0,45255.0
-Scarborough And North East Yorkshire NHS Trust,RCC,12471.0,250.0,67065.0,68.0,99269.0
-Sheffield Care NHS Trust,TAH,3155.0,413.0,82078.0,109.0,100572.0
-Sheffield Children's NHS Foundation Trust,RCU,3435.0,23.0,18460.0,46.0,26628.0
-Sherwood Forest Hospitals NHS Foundation Trust,RK5,17481.0,194.0,95238.0,4.0,144783.0
-Shrewsbury And Telford Hospital NHS Trust,RXW,33898.0,1821.0,137257.0,130.0,203478.0
-Somerset Partnership NHS And Soc Care NHS Trust,RH5,1855.0,1207.0,36473.0,0.0,51769.0
-South Central Ambulance Service NHS Trust,RYE,3363.0,11883.0,65967.0,5.0,100295.0
-South Devon Healthcare NHS Foundation Trust,RA9,23559.0,844.0,100284.0,11.0,149596.0
-South Downs Health NHS Trust,RDR,3401.0,369.0,44258.0,62.0,68883.0
-South East Coast Ambulance Service NHS Trust,RYD,3410.0,10607.0,85561.0,5.0,122570.0
-South Essex Partnership NHS Foundation Trust,RWN,92.0,7.0,5399.0,82.0,7620.0
-South London And Maudsley NHS Foundation Trust,RV5,6755.0,806.0,127809.0,-5.0,181249.0
-South Staffordshire Healthcare NHS Foundation Trust,RRE,140.0,64.0,5423.0,0.0,7025.0
-South Tees Hospitals NHS Trust,RTR,64103.0,951.0,214381.0,-40.0,358292.0
-South Warwickshire General Hospitals NHS Trust,RJC,15856.0,109.0,63661.0,190.0,101115.0
-South West Ambulance Service NHS Trust,RYF,2346.0,9187.0,72277.0,27.0,102705.0
-South West London And St George's Mental Health NHS Trust,RQY,3814.0,522.0,112481.0,50.0,157989.0
-South West Yorkshire Mental Health NHS Trust,RXG,4310.0,1418.0,73520.0,8.0,97387.0
-Southampton University Hospitals NHS Trust,RHM,71194.0,2684.0,242973.0,1164.0,378451.0
-Southend University Hospitals NHS Foundation Trust,RAJ,5679.0,92.0,21157.0,0.0,30835.0
-Southport And Ormskirk Hospital NHS Trust,RVY,13049.0,277.0,86744.0,125.0,122908.0
-St George's Healthcare NHS Trust,RJ7,61986.0,2929.0,243837.0,406.0,380723.0
-St Helens And Knowsley Hospitals NHS Trust,RBN,20381.0,153.0,124748.0,-14.0,193456.0
-St Mary's NHS Trust,RJ5,51934.0,147.0,167174.0,847.0,277398.0
-Staffordshire Ambulance Service NHS Trust,RB7,1092.0,1847.0,20809.0,0.0,28090.0
-Suffolk Mental Health Partnership NHS Trust,RT6,1541.0,1135.0,59635.0,-71.0,80938.0
-Surrey And Borders Partnership NHS Trust,RXX,4920.0,1605.0,121540.0,8.0,159704.0
-Surrey And Sussex Healthcare NHS Trust,RTP,19071.0,1781.0,105167.0,629.0,172155.0
-Sussex Partnership NHS Trust,RX2,5739.0,755.0,137193.0,651.0,193094.0
-Swindon And Marlborough NHS Trust,RN3,22362.0,210.0,91259.0,76.0,158156.0
-Tameside And Glossop Acute Servs NHS Trust,RMP,11733.0,208.0,74858.0,0.0,109699.0
-Taunton And Somerset NHS Trust,RBA,29523.0,1196.0,106602.0,292.0,161198.0
-Tavistock And Portman NHS Foundation Trust,RNK,15.0,2.0,10644.0,0.0,13295.0
-"Tees, Esk And Wear Valleys NHS Trust",RX3,5849.0,2344.0,149245.0,-24.0,198538.0
-The Cardiothoracic Center Liverpool NHS Trust,RBQ,23860.0,4.0,44947.0,0.0,80951.0
-The Hillingdon Hospital NHS Trust,RAS,17718.0,200.0,95291.0,235.0,142533.0
-The Lewisham Hospital NHS Trust,RJ2,19612.0,1282.0,102969.0,200.0,166695.0
-The Mid Cheshire Hospitals NHS Trust,RBT,17318.0,266.0,86289.0,20.0,120678.0
-The Royal National Orthopaedic Hospital NHS Trust,RAN,18549.0,566.0,40355.0,90.0,74060.0
-The Royal West Sussex NHS Trust,RPR,15882.0,257.0,73992.0,31.0,112060.0
-Trafford Healthcare NHS Trust,RM4,9136.0,81.0,60459.0,0.0,87059.0
-United Bristol Healthcare NHS Trust,RA7,59125.0,303.0,237774.0,931.0,363205.0
-United Lincolnshire Hospitals NHS Trust,RWD,48249.0,4144.0,204303.0,211.0,300799.0
-University Hospital Of North Staffordshire Hospital NHS Trust,RJE,49852.0,419.0,209656.0,183.0,327414.0
-University Hospital Of South Manchester NHS Foundation Trust,RM2,23282.0,265.0,90125.0,39.0,146346.0
-University Hospitals Coventry And Warwickshire NHS Trust,RKB,51555.0,3134.0,210152.0,423.0,401094.0
-University Hospitals Of Leicester NHS Trust,RWE,101742.0,2017.0,373852.0,638.0,577909.0
-University Hospitals Of Morecambe Bay NHS Trust,RTX,28795.0,1797.0,141924.0,5.0,203993.0
-Walsall Hospitals NHS Trust,RBK,19797.0,274.0,96932.0,41.0,142994.0
-Walton Neurology Centre NHS Trust,RET,11495.0,0.0,25372.0,4.0,46285.0
-West Dorset General Hospitals NHS Trust,RBD,20296.0,339.0,75493.0,-2.0,113502.0
-West Hertfordshire Hospitals NHS Trust,RWG,29538.0,31.0,141333.0,149.0,221894.0
-West London Mental Health NHS Trust,RKL,4050.0,410.0,164954.0,152.0,212594.0
-West Middlesex University NHS Trust,RFW,12895.0,151.0,72212.0,771.0,119709.0
-West Midlands Ambulance Service NHS Trust,RYA,2294.0,14122.0,77875.0,35.0,116970.0
-West Suffolk Hospital NHS Trust,RGR,18322.0,1531.0,77468.0,95.0,113064.0
-Weston Area Health NHS Trust,RA3,10205.0,93.0,52969.0,-2.0,74960.0
-Whipps Cross University Hospital NHS Trust,RGC,25505.0,319.0,120876.0,547.0,190223.0
-Whittington Hospital NHS Trust,RKE,19230.0,132.0,94811.0,77.0,137480.0
-Winchester And Eastleigh Healthcare NHS Trust,RN1,15148.0,249.0,84899.0,30.0,127023.0
-Wirral Hospital NHS Trust,RBL,30396.0,630.0,162544.0,-10.0,226470.0
-Worcestershire Acute Hospitals NHS Trust,RWP,36570.0,1277.0,154740.0,108.0,257862.0
-Worcestershire Mental Health Partnership NHS Trust,RWQ,3075.0,713.0,41975.0,50.0,59552.0
-Worthing And Southlands Hospitals NHS Trust,RPL,15995.0,164.0,96517.0,2.0,144039.0
-"Wrightington, Wigan And Leigh NHS Trust",RRF,27991.0,970.0,126866.0,178.0,193711.0
-Yeovil District Hospital NHS Foundation Trust,RA4,1596.0,31.0,8406.0,63.0,13377.0
-York Hospitals NHS Trust,RCB,30992.0,672.0,122949.0,223.0,180536.0
-Yorkshire Ambulance Service NHS Trust,RX8,1647.0,14418.0,107071.0,653.0,147360.0
-name,orgCode,supplies,transport,staffCosts,debt,totalCosts
-5 Boroughs Partnership NHS Trust,RTV,71994.0,1262.0,1060.0,323.0,0.0
-Airedale NHS Trust,RCF,75536.0,393.0,646.0,369.0,0.0
-Ashford And St Peter's Hospitals NHS Trust,RTK,116185.0,1210.0,911.0,365.0,372.0
-Avon And Wiltshire Mental Health Partnership NHS Trust,RVN,129365.0,719.0,1406.0,152.0,296.0
-"Barking, Havering And Redbridge Hospitals NHS Trust",RF4,237545.0,1896.0,1407.0,4080.0,987.0
-Barnet And Chase Farm Hospitals NHS Trust,RVL,169879.0,1545.0,777.0,1496.0,0.0
-"Barnet, Enfield And Haringey Mental Health NHS Trust",RRP,107135.0,283.0,926.0,1391.0,109.0
-Barts And The London NHS Trust,RNJ,306535.0,1656.0,1474.0,168.0,927.0
-Bedford Hospital NHS Trust,RC1,74797.0,476.0,621.0,666.0,32.0
-Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,RV7,59974.0,572.0,965.0,512.0,599.0
-Berkshire Healthcare NHS Foundation Trust,RWX,4715.0,0.0,86.0,6.0,0.0
-Birmingham And Solihull Mental Health NHS Trust,RXT,144295.0,2329.0,1209.0,1047.0,0.0
-Birmingham Women's NHS Foundation Trust,RLU,39311.0,39.0,606.0,592.0,12.0
-Blackpool Fylde And Wyre NHS Foundation Trust,RXL,86273.0,95.0,537.0,326.0,152.0
-Bolton Hospitals NHS Trust,RMC,116854.0,269.0,796.0,467.0,0.0
-Bradford District Care NHS Trust,TAD,76170.0,120.0,955.0,2877.0,40.0
-Brighton And Sussex University Hospitals NHS Trust,RXH,204141.0,1498.0,1468.0,3726.0,970.0
-Bromley Hospitals NHS Trust,RG3,101386.0,362.0,700.0,2304.0,934.0
-Buckinghamshire Hospitals NHS Trust,RXQ,157960.0,1733.0,1596.0,2128.0,386.0
-Burton Hospitals NHS Trust,RJF,77665.0,113.0,769.0,138.0,226.0
-Calderstones NHS Trust,RJX,38551.0,75.0,492.0,147.0,0.0
-Cambs & Peterborough MH Partnership NHS Trust,RT1,87555.0,611.0,877.0,2017.0,471.0
-Camden And Islington NHS Foundation Trust,TAF,74528.0,1716.0,854.0,0.0,978.0
-Central And North West London MH NHS Foundation Trust,RV3,11169.0,42.0,68.0,111.0,0.0
-Central Manchester/ Manchester Children's University Hospitals NHS Trust,RW3,317622.0,1701.0,1168.0,2608.0,0.0
-Cheshire And Wirral Partnership NHS Foundation Trust,RXA,20692.0,79.0,152.0,43.0,27.0
-Cornwall Partnership NHS Trust,RJ8,58397.0,282.0,682.0,1259.0,906.0
-Coventry And Warwickshire Partnership NHS Trust,RYG,105834.0,418.0,1154.0,253.0,6549.0
-Cumbria Partnership NHS Foundation Trust,RNN,21643.0,0.0,417.0,160.0,0.0
-Dartford And Gravesham NHS Trust,RN7,67368.0,487.0,791.0,0.0,0.0
-Derbyshire Mental Health Services NHS Trust,RXM,70855.0,436.0,750.0,2349.0,0.0
-Devon Partnership NHS Trust,RWV,69164.0,51.0,728.0,275.0,178.0
-Dorset County Hospital NHS Foundation Trust,RBD,13123.0,0.0,94.0,62.0,0.0
-Dudley Group Of Hospitals NHS Trust,RNA,111805.0,1173.0,657.0,1633.0,97.0
-Ealing Hospital NHS Trust,RC3,70045.0,251.0,785.0,852.0,371.0
-East And North Hertfordshire NHS Trust,RWH,177155.0,618.0,1124.0,2296.0,2.0
-East Cheshire NHS Trust,RJN,67733.0,134.0,490.0,241.0,653.0
-East Kent Hospitals NHS Trust,RVV,229746.0,1310.0,1103.0,2963.0,0.0
-East Lancashire Hospitals NHS Trust,RXR,193169.0,552.0,783.0,745.0,0.0
-East London NHS Foundation Trust,RWK,62277.0,0.0,386.0,421.0,207.0
-East Midlands Ambulance Service NHS Trust,RX9,95103.0,0.0,858.0,15549.0,390.0
-East Of England Ambulance Service NHS Trust,RYC,133335.0,296.0,825.0,26251.0,0.0
-East Sussex Hospitals NHS Trust,RXC,161779.0,247.0,1081.0,2034.0,144.0
-Epsom And St Helier University Hospitals NHS Trust,RVR,177334.0,1670.0,984.0,3007.0,462.0
-Essex Rivers Healthcare NHS Trust,RDE,104947.0,445.0,869.0,2213.0,0.0
-George Eliot Hospital NHS Trust,RLT,61104.0,498.0,501.0,69.0,0.0
-Gloucestershire Partnership NHS Foundation Trust,RTQ,13051.0,48.0,130.0,154.0,9.0
-Great Ormond Street Hospital NHS Trust,RP4,152816.0,1664.0,744.0,2109.0,1154.0
-Great Western Ambulance Service NHS Trust,RX5,47428.0,496.0,765.0,6978.0,0.0
-Greater Manchester West MH NHS Foundation Trust,RXV,75554.0,148.0,780.0,325.0,706.0
-Hampshire Partnership NHS Trust,RW1,128014.0,432.0,1189.0,936.0,724.0
-Heatherwood And Wexham Park Hosps NHS Foundation Trust,RD7,20993.0,0.0,123.0,103.0,0.0
-Hereford Hospitals NHS Trust,RLQ,56602.0,549.0,749.0,70.0,-54.0
-Hertfordshire Partnership NHS Foundation Trust,RWR,33920.0,122.0,206.0,445.0,0.0
-Hinchingbrooke Healthcare NHS Trust,RQQ,49225.0,250.0,617.0,8.0,0.0
-Hull And East Yorkshire Hospitals NHS Trust,RWA,243260.0,839.0,884.0,837.0,121.0
-Humber Mental Health Teaching NHS Trust,RV9,57330.0,148.0,738.0,688.0,565.0
-Imperial College Healthcare NHS Trust,RYJ,458604.0,4709.0,1519.0,8092.0,1130.0
-Ipswich Hospital NHS Trust,RGQ,118491.0,515.0,898.0,300.0,25.0
-Kent And Medway NHS And Social Care Partnership NHS Trust,RXY,130151.0,39.0,585.0,1184.0,721.0
-Kettering General Hospital NHS Trust,RNQ,97201.0,744.0,753.0,203.0,-390.0
-Kingston Hospital NHS Trust,RAX,110486.0,1198.0,658.0,360.0,115.0
-Lancashire Care NHS Foundation Trust,RW5,83060.0,25.0,342.0,326.0,0.0
-Leeds Partnership NHS Foundation Trust,RGD,25736.0,97.0,314.0,492.0,0.0
-Leeds Teaching Hospitals NHS Trust,RR8,494546.0,1202.0,866.0,9864.0,0.0
-Leicestershire Partnership NHS Trust,RT5,98543.0,823.0,769.0,141.0,2453.0
-Lincolnshire Partnership NHS Foundation Trust,RP7,29700.0,121.0,222.0,199.0,35.0
-London Ambulance Service NHS Trust,RRU,167839.0,1519.0,702.0,23252.0,920.0
-Maidstone And Tunbridge Wells NHS Trust,RWF,161701.0,3510.0,1150.0,830.0,0.0
-Manchester Mental Health And Social Care NHS Trust,TAE,57357.0,414.0,1127.0,294.0,51.0
-Mayday Healthcare NHS Trust,RJ6,114409.0,715.0,1022.0,1132.0,488.0
-Medway NHS Trust,RPA,116579.0,287.0,580.0,209.0,0.0
-Mersey Care NHS Trust,RW4,142353.0,658.0,912.0,445.0,857.0
-Mid Essex Hospital Services NHS Trust,RQ8,115829.0,745.0,1025.0,168.0,75.0
-Mid Staffordshire NHS Foundation Trust,RJD,66857.0,578.0,494.0,262.0,879.0
-Mid Yorkshire Hospitals NHS Trust,RXF,221809.0,1030.0,1538.0,836.0,2192.0
-Milton Keynes Hospital NHS Foundation Trust,RD8,40233.0,350.0,455.0,72.0,0.0
-Newham University Hospital NHS Trust,RNH,91798.0,669.0,993.0,1473.0,753.0
-NHS Direct NHS Trust,RYH,88051.0,3627.0,1051.0,194.0,184.0
-Norfolk And Norwich Uni Hosp NHS Trust,RM1,183793.0,53.0,775.0,3272.0,480.0
-Norfolk And Waveney MH NHS Foundation Trust,RMY,61672.0,45.0,602.0,677.0,225.0
-North Bristol NHS Trust,RVJ,258980.0,1444.0,886.0,638.0,30.0
-North Cheshire Hospitals NHS Trust,RWW,110399.0,286.0,901.0,1111.0,0.0
-North Cumbria Acute Hospitals NHS Trust,RNL,121430.0,661.0,830.0,1856.0,0.0
-North East Ambulance Service NHS Trust,RX6,54937.0,239.0,651.0,7952.0,0.0
-North East London Mental Health NHS Trust,RAT,76435.0,1144.0,969.0,602.0,999.0
-North Essex Partnership NHS Foundation Trust,RRD,33729.0,31.0,1102.0,397.0,0.0
-North Lincolnshire And Goole Hosps NHS Foundation Trust,RJL,13088.0,8.0,85.0,48.0,0.0
-North Middlesex University Hospital NHS Trust,RAP,82185.0,1161.0,1139.0,898.0,0.0
-North Staffordshire Combined Healthcare NHS Trust,RLY,62885.0,133.0,727.0,102.0,262.0
-North Tees And Hartlepool NHS Foundation Trust,RVW,85299.0,328.0,803.0,310.0,389.0
-North West Ambulance Service NHS Trust,RX7,147535.0,338.0,1266.0,25700.0,0.0
-North West London Hospitals NHS Trust,RV8,189594.0,509.0,828.0,1890.0,513.0
-Northampton General Hospital NHS Trust,RNS,121300.0,331.0,908.0,696.0,0.0
-Northamptonshire Healthcare NHS Trust,RP1,65228.0,573.0,996.0,842.0,0.0
-Northern Devon Healthcare NHS Trust,RBZ,75120.0,69.0,929.0,681.0,0.0
-"Northumberland, Tyne And Wear NHS Trust",RX4,214570.0,986.0,959.0,2485.0,348.0
-Nottingham University Hospitals NHS Trust,RX1,377750.0,2227.0,744.0,4460.0,6007.0
-Nottinghamshire Healthcare NHS Trust,RHA,191802.0,336.0,1231.0,1887.0,1251.0
-Nuffield Orthopaedic Centre NHS Trust,RBF,31188.0,707.0,470.0,23.0,1297.0
-Oxford Learning Disability NHS Trust,RHX,30615.0,269.0,752.0,112.0,0.0
-Oxford Radcliffe Hospital NHS Trust,RTH,314921.0,2210.0,1571.0,5768.0,-240.0
-Oxfordshire And Buckinghamshire MH Partnership NHS Trust,RNU,88459.0,672.0,836.0,494.0,-23.0
-Pennine Acute Hospitals NHS Trust,RW6,316752.0,682.0,1180.0,1091.0,0.0
-Pennine Care NHS Trust,RT2,79003.0,475.0,572.0,278.0,147.0
-Plymouth Hospitals NHS Trust,RK9,207514.0,751.0,743.0,1578.0,59.0
-Poole Hospital NHS Foundation Trust,RD3,62555.0,72.0,406.0,236.0,190.0
-Portsmouth Hospitals NHS Trust,RHU,223714.0,3771.0,942.0,5026.0,206.0
-Princess Alexandra Hospital NHS Trust,RQW,90691.0,1098.0,968.0,676.0,0.0
-Queen Elizabeth Hospital Kings Lynn NHS Trust,RCX,77193.0,776.0,877.0,390.0,7.0
-Queen Elizabeth Hospital NHS Trust,RG2,91284.0,673.0,842.0,555.0,20.0
-Queen Mary's Sidcup NHS Trust,RGZ,68033.0,345.0,673.0,696.0,0.0
-Robert Jones And Agnes Hunt Orthopaedic NHS Trust,RL1,35460.0,237.0,746.0,625.0,200.0
-"Rotherham, Doncaster And South Humber MH NHS Foundation Trust",RXE,20257.0,93.0,284.0,303.0,0.0
-Royal Brompton And Harefield NHS Trust,RT3,130963.0,438.0,719.0,1915.0,444.0
-Royal Cornwall Hospitals NHS Trust,REF,161535.0,330.0,1065.0,427.0,8.0
-Royal Free Hampstead NHS Trust,RAL,235191.0,2088.0,924.0,1549.0,0.0
-Royal Liverpool Broadgreen Hospitals NHS Trust,RQ6,198673.0,1780.0,828.0,761.0,0.0
-Royal Liverpool Childrens NHS Trust,RBS,97482.0,367.0,819.0,225.0,216.0
-Royal Surrey County Hospital NHS Trust,RA2,99402.0,812.0,702.0,163.0,27.0
-Royal United Hospital Bath NHS Trust,RD1,118462.0,1680.0,914.0,378.0,38.0
-Royal Wolverhampton Hospital NHS Trust,RL4,145534.0,1736.0,1200.0,87.0,0.0
-Sandwell And West Birmingham Hospitals NHS Trust,RXK,218920.0,2481.0,766.0,1265.0,1283.0
-Sandwell Mental Health Social Care NHS Trust,TAJ,32554.0,28.0,839.0,48.0,0.0
-Scarborough And North East Yorkshire NHS Trust,RCC,67257.0,356.0,637.0,277.0,531.0
-Sheffield Care NHS Trust,TAH,81477.0,331.0,1018.0,562.0,0.0
-Shrewsbury And Telford Hospital NHS Trust,RXW,144674.0,347.0,976.0,1775.0,0.0
-Somerset Partnership NHS And Soc Care NHS Trust,RH5,37238.0,96.0,520.0,297.0,437.0
-South Central Ambulance Service NHS Trust,RYE,70910.0,566.0,901.0,13982.0,0.0
-South Downs Health NHS Trust,RDR,45433.0,504.0,702.0,349.0,145.0
-South East Coast Ambulance Service NHS Trust,RYD,94445.0,601.0,1079.0,10636.0,290.0
-South Tees Hospitals NHS Trust,RTR,221863.0,147.0,1509.0,939.0,108.0
-South Warwickshire General Hospitals NHS Trust,RJC,65120.0,152.0,1102.0,115.0,0.0
-South West Ambulance Service NHS Trust,RYF,77172.0,102.0,614.0,9393.0,92.0
-South West London And St George's Mental Health NHS Trust,RQY,118290.0,2392.0,830.0,554.0,69.0
-South West Yorkshire Mental Health NHS Trust,RXG,75367.0,144.0,949.0,1326.0,44.0
-Southampton University Hospitals NHS Trust,RHM,260313.0,1436.0,1180.0,2766.0,272.0
-Southport And Ormskirk Hospital NHS Trust,RVY,90198.0,8.0,585.0,230.0,249.0
-St George's Healthcare NHS Trust,RJ7,256914.0,2053.0,1439.0,2727.0,448.0
-St Helens And Knowsley Hospitals NHS Trust,RBN,124059.0,33.0,859.0,204.0,0.0
-Suffolk Mental Health Partnership NHS Trust,RT6,59800.0,2103.0,1037.0,1179.0,499.0
-Surrey And Borders Partnership NHS Trust,RXX,123541.0,496.0,1350.0,1650.0,1417.0
-Surrey And Sussex Healthcare NHS Trust,RTP,101874.0,1958.0,833.0,1311.0,146.0
-Sussex Partnership NHS Trust,RX2,144875.0,764.0,1477.0,1769.0,1034.0
-Swindon And Marlborough NHS Trust,RN3,98103.0,377.0,621.0,338.0,0.0
-Tameside Hosptal NHS Foundation Trust,RMP,65519.0,643.0,432.0,186.0,0.0
-Taunton And Somerset NHS Foundation Trust,RBA,74729.0,484.0,612.0,851.0,0.0
-"Tees, Esk And Wear Valleys NHS Trust",RX3,155295.0,1272.0,1459.0,2381.0,0.0
-The Cardiothoracic Center Liverpool NHS Trust,RBQ,45899.0,0.0,494.0,8.0,28.0
-The Hillingdon Hospital NHS Trust,RAS,97803.0,912.0,1040.0,688.0,2.0
-The Lewisham Hospital NHS Trust,RJ2,105621.0,1740.0,981.0,962.0,718.0
-The Mid Cheshire Hospitals NHS Trust,RBT,93217.0,419.0,959.0,434.0,90.0
-The Royal National Orthopaedic Hospital NHS Trust,RAN,41476.0,565.0,783.0,1332.0,0.0
-The Royal West Sussex NHS Trust,RPR,77537.0,161.0,656.0,224.0,-611.0
-Trafford Healthcare NHS Trust,RM4,62286.0,477.0,657.0,81.0,0.0
-United Bristol Healthcare NHS Trust,RA7,255616.0,1113.0,905.0,279.0,127.0
-United Lincolnshire Hospitals NHS Trust,RWD,217552.0,826.0,958.0,3959.0,-767.0
-University Hospital Of North Staffordshire Hospital NHS Trust,RJE,222601.0,337.0,776.0,4259.0,170.0
-University Hospitals Coventry And Warwickshire NHS Trust,RKB,212373.0,3756.0,965.0,915.0,1747.0
-University Hospitals Of Leicester NHS Trust,RWE,377916.0,1932.0,2066.0,1373.0,693.0
-University Hospitals Of Morecambe Bay NHS Trust,RTX,148054.0,618.0,668.0,2037.0,17.0
-Walsall Hospitals NHS Trust,RBK,97803.0,1819.0,702.0,220.0,3207.0
-Walton Neurology Centre NHS Trust,RET,27312.0,0.0,738.0,0.0,0.0
-West Hertfordshire Hospitals NHS Trust,RWG,137346.0,985.0,889.0,1380.0,109.0
-West London Mental Health NHS Trust,RKL,171768.0,403.0,1355.0,362.0,721.0
-West Middlesex University NHS Trust,RFW,77694.0,288.0,641.0,166.0,0.0
-West Midlands Ambulance Service NHS Trust,RYA,102555.0,177.0,1479.0,15778.0,1655.0
-West Suffolk Hospital NHS Trust,RGR,82113.0,262.0,866.0,1369.0,0.0
-Weston Area Health NHS Trust,RA3,53216.0,171.0,582.0,172.0,0.0
-Whipps Cross University Hospital NHS Trust,RGC,120197.0,1521.0,809.0,331.0,17.0
-Whittington Hospital NHS Trust,RKE,101333.0,1461.0,951.0,273.0,64.0
-Winchester And Eastleigh Healthcare NHS Trust,RN1,87072.0,1261.0,852.0,270.0,241.0
-Wirral University Teaching Hospital NHS Foundation Trust,RBL,41605.0,0.0,221.0,129.0,0.0
-Worcestershire Acute Hospitals NHS Trust,RWP,162834.0,47.0,720.0,1109.0,870.0
-Worcestershire Mental Health Partnership NHS Trust,RWQ,41400.0,141.0,438.0,728.0,0.0
-Worthing And Southlands Hospitals NHS Trust,RPL,100796.0,0.0,721.0,149.0,147.0
-"Wrightington, Wigan And Leigh NHS Trust",RRF,132836.0,1102.0,846.0,1007.0,880.0
-Yorkshire Ambulance Service NHS Trust,RX8,109125.0,809.0,930.0,15408.0,794.0
-name,orgCode,supplies,transport,staffCosts,debt,totalCosts
-5 Boroughs Partnership NHS Trust,RTV,74443.0,567.0,938.0,363.0,65.0
-Airedale NHS Trust,RCF,81186.0,219.0,675.0,359.0,1.0
-Alder Hey Childrens NHS Foundation Trust,RBS,34989.0,164.0,369.0,139.0,0.0
-Ashford And St Peter's Hospitals NHS Trust,RTK,126035.0,1678.0,1489.0,407.0,52.0
-Avon And Wiltshire Mental Health Partnership NHS Trust,RVN,134133.0,1025.0,1515.0,190.0,0.0
-"Barking, Havering And Redbridge University Hospitals NHS Trust",RF4,258085.0,2820.0,846.0,4223.0,0.0
-Barnet And Chase Farm Hospitals NHS Trust,RVL,189465.0,996.0,912.0,1744.0,12.0
-"Barnet, Enfield And Haringey Mental Health NHS Trust",RRP,109310.0,490.0,700.0,1466.0,13.0
-Barts And The London NHS Trust,RNJ,331148.0,8484.0,1935.0,230.0,15.0
-Bedford Hospital NHS Trust,RC1,80263.0,504.0,609.0,643.0,0.0
-Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,RV7,53336.0,262.0,1159.0,382.0,110.0
-Birmingham And Solihull Mental Health NHS Foundation Trust,RXT,36747.0,626.0,313.0,277.0,0.0
-Bradford District Care NHS Trust,TAD,79281.0,258.0,925.0,3182.0,154.0
-Brighton And Sussex University Hospitals NHS Trust,RXH,226675.0,509.0,1328.0,4272.0,183.0
-Bromley Hospitals NHS Trust,RG3,103617.0,1185.0,1312.0,1862.0,12.0
-Buckinghamshire Hospitals NHS Trust,RXQ,167983.0,811.0,1181.0,2314.0,0.0
-Burton Hospitals NHS Foundation Trust,RJF,47807.0,183.0,477.0,73.0,34.0
-Calderstones NHS Trust,RJX,41989.0,205.0,551.0,140.0,0.0
-Cambridgeshire And Peterborough NHS Foundation Trust,RT1,15266.0,115.0,151.0,337.0,0.0
-Central Manchester University Hospitals NHS Foundation Trust,RW3,252086.0,1441.0,984.0,1815.0,0.0
-Colchester Hospital University NHS Foundation Trust,RDE,9236.0,19.0,84.0,154.0,0.0
-Cornwall Partnership NHS Trust,RJ8,49958.0,461.0,630.0,1005.0,25.0
-Coventry And Warwickshire Partnership NHS Trust,RYG,104630.0,432.0,1401.0,465.0,146.0
-Dartford And Gravesham NHS Trust,RN7,73770.0,647.0,862.0,0.0,24.0
-Derbyshire Mental Health Services NHS Trust,RXM,73198.0,496.0,866.0,2381.0,140.0
-Devon Partnership NHS Trust,RWV,71768.0,43.0,760.0,348.0,0.0
-Dudley And Walsall Mental Health Partnership NHS Trust,RYK,23950.0,348.0,320.0,30.0,32.0
-Ealing Hospital NHS Trust,RC3,77298.0,633.0,799.0,840.0,12.0
-East And North Hertfordshire NHS Trust,RWH,195632.0,1313.0,1171.0,2997.0,15.0
-East Cheshire NHS Trust,RJN,72586.0,355.0,634.0,230.0,11.0
-East Kent Hospitals University NHS Foundation Trust,RVV,229612.0,1880.0,1094.0,3468.0,0.0
-East Lancashire Hospitals NHS Trust,RXR,208019.0,1297.0,866.0,1126.0,0.0
-East Midlands Ambulance Service NHS Trust,RX9,101531.0,41.0,892.0,17436.0,74.0
-East Of England Ambulance Service NHS Trust,RYC,147890.0,717.0,945.0,31249.0,32.0
-East Sussex Hospitals NHS Trust,RXC,176990.0,558.0,753.0,2193.0,0.0
-Epsom And St Helier University Hospitals NHS Trust,RVR,193390.0,2817.0,1212.0,3783.0,16.0
-George Eliot Hospital NHS Trust,RLT,63582.0,165.0,677.0,73.0,90.0
-Great Ormond Street Hospital NHS Trust,RP4,169403.0,1745.0,886.0,2826.0,189.0
-Great Western Ambulance Service NHS Trust,RX5,55892.0,210.0,755.0,8699.0,0.0
-Great Western Hospitals NHS Foundation Trust,RN3,71269.0,247.0,396.0,231.0,76.0
-Hampshire Partnership NHS Trust,RW1,138281.0,442.0,1296.0,1045.0,23.0
-Hereford Hospitals NHS Trust,RLQ,61894.0,369.0,858.0,53.0,0.0
-Hinchingbrooke Healthcare NHS Trust,RQQ,52568.0,181.0,592.0,197.0,0.0
-Hull And East Yorkshire Hospitals NHS Trust,RWA,262691.0,600.0,1421.0,946.0,186.0
-Humber Mental Health Teaching NHS Trust,RV9,60079.0,714.0,1391.0,455.0,77.0
-Imperial College Healthcare NHS Trust,RYJ,486837.0,1678.0,1310.0,8707.0,501.0
-Ipswich Hospital NHS Trust,RGQ,125094.0,675.0,690.0,401.0,25.0
-Kent And Medway NHS And Social Care Partnership NHS Trust,RXY,133569.0,260.0,734.0,1055.0,52.0
-Kettering General Hospital NHS Foundation Trust,RNQ,61303.0,390.0,378.0,191.0,23.0
-Kingston Hospital NHS Trust,RAX,117644.0,1481.0,648.0,1229.0,95.0
-Leeds Teaching Hospitals NHS Trust,RR8,529749.0,965.0,935.0,9843.0,0.0
-Leicestershire Partnership NHS Trust,RT5,99090.0,1089.0,839.0,182.0,0.0
-Liverpool Heart And Chest Hospital NHS Trust,RBQ,48284.0,0.0,561.0,41.0,0.0
-London Ambulance Service NHS Trust,RRU,192167.0,1155.0,745.0,23528.0,1.0
-Maidstone And Tunbridge Wells NHS Trust,RWF,183706.0,4239.0,1030.0,1004.0,0.0
-Manchester Mental Health And Social Care NHS Trust,TAE,61452.0,944.0,1116.0,294.0,0.0
-Mayday Healthcare NHS Trust,RJ6,118848.0,711.0,1038.0,1260.0,0.0
-Mersey Care NHS Trust,RW4,146508.0,269.0,1095.0,388.0,0.0
-Mid Essex Hospital Services NHS Trust,RQ8,132208.0,627.0,1111.0,220.0,0.0
-Mid Yorkshire Hospitals NHS Trust,RXF,241088.0,945.0,1614.0,700.0,0.0
-Newham University Hospital NHS Trust,RNH,99127.0,2186.0,992.0,1741.0,127.0
-NHS Direct NHS Trust,RYH,97512.0,7279.0,1243.0,1835.0,120.0
-Norfolk And Norwich University Hospitals NHS Foundation Trust,RM1,16903.0,2.0,66.0,261.0,0.0
-North Bristol NHS Trust,RVJ,281231.0,2156.0,843.0,515.0,0.0
-North Cumbria University Hospitals NHS Trust,RNL,129431.0,1383.0,661.0,1884.0,84.0
-North East Ambulance Service NHS Trust,RX6,57095.0,508.0,651.0,9023.0,10.0
-North East London NHS Foundation Trust,RAT,13283.0,174.0,165.0,81.0,0.0
-North Middlesex University Hospital NHS Trust,RAP,88234.0,537.0,998.0,952.0,0.0
-North Staffordshire Combined Healthcare NHS Trust,RLY,65273.0,361.0,678.0,117.0,84.0
-North West Ambulance Service NHS Trust,RX7,161267.0,675.0,959.0,27873.0,44.0
-North West London Hospitals NHS Trust,RV8,207790.0,686.0,828.0,1831.0,24.0
-Northampton General Hospital NHS Trust,RNS,132943.0,196.0,1041.0,732.0,11.0
-Northamptonshire Healthcare NHS Trust,RP1,69167.0,756.0,1021.0,839.0,0.0
-Northern Devon Healthcare NHS Trust,RBZ,81667.0,72.0,904.0,607.0,0.0
-"Northumberland, Tyne And Wear NHS Trust",RX4,219031.0,674.0,1080.0,2557.0,0.0
-Nottingham University Hospitals NHS Trust,RX1,400242.0,1974.0,728.0,4166.0,193.0
-Nottinghamshire Healthcare NHS Trust,RHA,203910.0,886.0,1104.0,2049.0,10.0
-Nuffield Orthopaedic Centre NHS Trust,RBF,31773.0,454.0,565.0,21.0,1.0
-Oxford Learning Disability NHS Trust,RHX,32398.0,221.0,970.0,120.0,0.0
-Oxford Radcliffe Hospital NHS Trust,RTH,350074.0,3856.0,1607.0,5973.0,0.0
-Pennine Acute Hospitals NHS Trust,RW6,332821.0,699.0,1192.0,1029.0,21.0
-Pennine Care NHS Foundation Trust,RT2,21096.0,272.0,152.0,78.0,16.0
-Plymouth Hospitals NHS Trust,RK9,227563.0,1393.0,800.0,1659.0,56.0
-Portsmouth Hospitals NHS Trust,RHU,243808.0,2637.0,1062.0,5103.0,0.0
-Princess Alexandra Hospital NHS Trust,RQW,101054.0,780.0,992.0,656.0,15.0
-Queen Elizabeth Hospital Kings Lynn NHS Trust,RCX,87648.0,601.0,1041.0,418.0,0.0
-Queen Elizabeth Hospital NHS Trust,RG2,96978.0,1012.0,873.0,507.0,0.0
-Queen Mary's Sidcup NHS Trust,RGZ,75920.0,740.0,1090.0,1101.0,66.0
-Robert Jones And Agnes Hunt Orthopaedic NHS Trust,RL1,38713.0,537.0,774.0,616.0,114.0
-Royal Bolton Hospital NHS Foundation Trust,RMC,60769.0,154.0,421.0,222.0,0.0
-Royal Brompton And Harefield NHS Trust,RT3,139513.0,990.0,779.0,2162.0,85.0
-Royal Cornwall Hospitals NHS Trust,REF,177339.0,241.0,1617.0,1673.0,6.0
-Royal Free Hampstead NHS Trust,RAL,262958.0,5461.0,676.0,412.0,13.0
-Royal Liverpool Broadgreen Hospitals NHS Trust,RQ6,211338.0,1467.0,1013.0,2873.0,0.0
-Royal Surrey County Hospital NHS Trust,RA2,114676.0,1715.0,786.0,185.0,16.0
-Royal United Hospital Bath NHS Trust,RD1,126588.0,969.0,847.0,1575.0,0.0
-Royal Wolverhampton Hospital NHS Trust,RL4,154782.0,2496.0,1217.0,85.0,75.0
-Sandwell And West Birmingham Hospitals NHS Trust,RXK,237814.0,2906.0,861.0,1422.0,76.0
-Sandwell Mental Health And Social Care NHS Foundation Trust,TAJ,28012.0,51.0,769.0,7.0,18.0
-Scarborough And North East Yorkshire NHS Trust,RCC,70904.0,684.0,748.0,484.0,0.0
-Sheffield Health And Social Care NHS Foundation Trust,TAH,21382.0,17.0,241.0,128.0,0.0
-Shrewsbury And Telford Hospital NHS Trust,RXW,159572.0,721.0,1008.0,2603.0,0.0
-Somerset Partnership NHS Foundation Trust,RH5,3519.0,4.0,37.0,23.0,3.0
-South Central Ambulance Service NHS Trust,RYE,76819.0,1334.0,937.0,19227.0,0.0
-South Downs Health NHS Trust,RDR,46907.0,539.0,782.0,341.0,125.0
-South East Coast Ambulance Service NHS Trust,RYD,104089.0,650.0,1003.0,12692.0,116.0
-South Tees Hospitals NHS Trust,RTR,238497.0,529.0,1680.0,1255.0,0.0
-South Warwickshire General Hospitals NHS Trust,RJC,69362.0,305.0,983.0,107.0,112.0
-South West Ambulance Service NHS Trust,RYF,87634.0,447.0,654.0,9927.0,0.0
-South West London And St George's Mental Health NHS Trust,RQY,118784.0,2102.0,980.0,1122.0,0.0
-South West Yorkshire Mental Health NHS Trust,RXG,80786.0,323.0,1025.0,1387.0,35.0
-Southampton University Hospitals NHS Trust,RHM,294699.0,1412.0,1255.0,2837.0,0.0
-Southport And Ormskirk Hospital NHS Trust,RVY,93744.0,209.0,650.0,212.0,0.0
-St George's Healthcare NHS Trust,RJ7,278149.0,3655.0,1700.0,2947.0,0.0
-St Helens And Knowsley Hospitals NHS Trust,RBN,134128.0,162.0,894.0,308.0,0.0
-Suffolk Mental Health Partnership NHS Trust,RT6,63820.0,2538.0,1009.0,1161.0,0.0
-Surrey And Borders Partnership NHS Foundation Trust,RXX,11030.0,24.0,120.0,117.0,28.0
-Surrey And Sussex Healthcare NHS Trust,RTP,115212.0,1978.0,881.0,1357.0,194.0
-Sussex Partnership NHS Foundation Trust,RX2,50184.0,5.0,518.0,477.0,0.0
-"Tees, Esk And Wear Valleys NHS Foundation Trust",RX3,40719.0,454.0,380.0,674.0,48.0
-The Dudley Group Of Hospitals NHS Foundation Trust,RNA,60692.0,296.0,368.0,865.0,0.0
-The Hillingdon Hospital NHS Trust,RAS,107347.0,1121.0,980.0,973.0,154.0
-The Lewisham Hospital NHS Trust,RJ2,111240.0,2232.0,825.0,1011.0,96.0
-The Royal National Orthopaedic Hospital NHS Trust,RAN,44266.0,551.0,846.0,1682.0,0.0
-The Royal West Sussex NHS Trust,RPR,85000.0,652.0,753.0,232.0,143.0
-Trafford Healthcare NHS Trust,RM4,64345.0,1483.0,615.0,76.0,0.0
-United Lincolnshire Hospitals NHS Trust,RWD,233082.0,1120.0,1042.0,4175.0,0.0
-University Hospital Of North Staffordshire Hospital NHS Trust,RJE,240918.0,1294.0,768.0,3989.0,182.0
-University Hospitals Coventry And Warwickshire NHS Trust,RKB,236531.0,3410.0,824.0,1224.0,50.0
-University Hospitals Of Bristol NHS Foundation Trust,RA7,45125.0,46.0,151.0,47.0,0.0
-University Hospitals Of Leicester NHS Trust,RWE,402119.0,1308.0,1003.0,1929.0,0.0
-University Hospitals Of Morecambe Bay NHS Trust,RTX,157216.0,311.0,708.0,2096.0,0.0
-Walsall Hospitals NHS Trust,RBK,99944.0,2375.0,1074.0,1022.0,64.0
-Walton Neurology Centre NHS Trust,RET,29875.0,77.0,802.0,0.0,43.0
-Warrington And Halton Hospitals NHS Foundation Trust,RWW,78728.0,383.0,662.0,1066.0,0.0
-West Hertfordshire Hospitals NHS Trust,RWG,147435.0,807.0,1037.0,1276.0,18.0
-West London Mental Health NHS Trust,RKL,181221.0,263.0,1329.0,352.0,16.0
-West Middlesex University NHS Trust,RFW,84936.0,234.0,914.0,288.0,0.0
-West Midlands Ambulance Service NHS Trust,RYA,111842.0,112.0,1790.0,17781.0,0.0
-West Suffolk Hospital NHS Trust,RGR,90831.0,262.0,900.0,1462.0,0.0
-Weston Area Health NHS Trust,RA3,57372.0,64.0,797.0,177.0,36.0
-Whipps Cross University Hospital NHS Trust,RGC,130113.0,2148.0,960.0,767.0,0.0
-Whittington Hospital NHS Trust,RKE,112369.0,917.0,1026.0,149.0,13.0
-Winchester And Eastleigh Healthcare NHS Trust,RN1,93345.0,549.0,663.0,341.0,70.0
-Worcestershire Acute Hospitals NHS Trust,RWP,175109.0,597.0,718.0,1135.0,0.0
-Worcestershire Mental Health Partnership NHS Trust,RWQ,43520.0,47.0,725.0,728.0,0.0
-Worthing And Southlands Hospitals NHS Trust,RPL,113690.0,1021.0,988.0,232.0,251.0
-"Wrightington, Wigan And Leigh NHS Foundation Trust",RRF,92725.0,345.0,683.0,715.0,0.0
-Yorkshire Ambulance Service NHS Trust,RX8,131914.0,1879.0,1013.0,18222.0,159.0
+name,orgCode,year,supplies,transport,staffCosts,debt,totalCosts
+5 Boroughs Partnership NHS Trust,RTV,2007,4781.0,451.0,70512.0,0.0,90932.0
+Aintree University Hospitals NHS Foundation Trust,REM,2007,9450.0,387.0,44390.0,35.0,64165.0
+Airedale NHS Trust,RCF,2007,12508.0,352.0,68794.0,-55.0,97009.0
+Ashford And St Peter's Hospitals NHS Trust,RTK,2007,28303.0,365.0,113305.0,-22.0,178269.0
+Avon And Wiltshire Mental Health Partnership NHS Trust,RVN,2007,5566.0,108.0,122893.0,-4.0,179970.0
+"Barking, Havering And Redbridge Hospitals NHS Trust",RF4,2007,51304.0,576.0,244446.0,610.0,380462.0
+Barnet And Chase Farm Hospitals NHS Trust,RVL,2007,33238.0,1075.0,163832.0,550.0,251284.0
+"Barnet, Enfield And Haringey Mental Health NHS Trust",RRP,2007,4285.0,1582.0,108917.0,699.0,177865.0
+Barts And The London NHS Trust,RNJ,2007,110805.0,1956.0,305579.0,705.0,535215.0
+Basingstoke And North Hampshire Hospitals NHS Foundation Trust,RN5,2007,15297.0,113.0,51416.0,81.0,80781.0
+Bedford Hospital NHS Trust,RC1,2007,14047.0,638.0,74824.0,297.0,107928.0
+Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,RV7,2007,1457.0,424.0,60960.0,171.0,79049.0
+Berkshire Healthcare NHS Trust,RWX,2007,2214.0,150.0,58677.0,92.0,99169.0
+Birmingham And Solihull Mental Health NHS Trust,RXT,2007,6623.0,648.0,138835.0,48.0,205543.0
+Birmingham Children's Hospital NHS Foundation Trust,RQ3,2007,23321.0,651.0,80915.0,180.0,120422.0
+Birmingham Women's Health Care NHS Trust,RLU,2007,6710.0,508.0,46187.0,2.0,68177.0
+"Blackpool, Fylde And Wyre Hosps NHS Trust",RXL,2007,36538.0,423.0,130755.0,187.0,229612.0
+Bolton Hospitals NHS Trust,RMC,2007,17939.0,525.0,108887.0,3.0,152558.0
+"Bolton, Salford And Trafford Mental Health NHS Trust",RXV,2007,5385.0,281.0,86348.0,153.0,114198.0
+Bradford District Care NHS Trust,TAD,2007,4319.0,2698.0,73100.0,64.0,116387.0
+Brighton And Sussex University Hospitals NHS Trust,RXH,2007,58641.0,3597.0,196906.0,1475.0,326816.0
+Bromley Hospitals NHS Trust,RG3,2007,22605.0,1992.0,102743.0,80.0,157167.0
+Buckinghamshire Hospitals NHS Trust,RXQ,2007,35126.0,1986.0,153939.0,-38.0,242808.0
+Burton Hospitals NHS Trust,RJF,2007,14687.0,151.0,74766.0,45.0,109571.0
+Calderdale And Huddersfield NHS Foundation Trust,RWY,2007,9488.0,275.0,53702.0,16.0,81804.0
+Calderstones NHS Trust,RJX,2007,269.0,129.0,35762.0,0.0,42179.0
+Cambs & Peterborough MH Partnership NHS Trust,RT1,2007,6742.0,2418.0,87534.0,30.0,126477.0
+Camden And Islington Mental Health Social Care NHS Trust,TAF,2007,3099.0,0.0,81063.0,25.0,130013.0
+Central And North West London MH NHS Trust,RV3,2007,5834.0,1324.0,135264.0,0.0,177856.0
+Central Manchester/ Manchester Children's University Hospitals NHS Trust,RW3,2007,100770.0,1605.0,298453.0,53.0,500964.0
+Chelsea And Westminster Hospital NHS Foundation Trust,RQM,2007,23286.0,247.0,62340.0,587.0,112351.0
+Cheshire And Wirral Partnership NHS Trust,RXA,2007,3362.0,157.0,82969.0,27.0,106561.0
+Christie Hospital NHS Trust,RBV,2007,35983.0,20.0,59248.0,4.0,124181.0
+Clatterbridge Centre For Oncology NHS Foundation Trust,REN,2007,4566.0,1.0,7011.0,0.0,15008.0
+Cornwall Partnership NHS Trust,RJ8,2007,2062.0,1388.0,61801.0,12.0,87222.0
+County Durham And Darlington NHS Foundation Trust,RXP,2007,30781.0,2310.0,147965.0,411.0,232670.0
+Coventry And Warwickshire Partnership NHS Trust,RYG,2007,2438.0,180.0,48646.0,285.0,70852.0
+Dartford And Gravesham NHS Trust,RN7,2007,14579.0,0.0,63723.0,3.0,111061.0
+Derbyshire Mental Health Services NHS Trust,RXM,2007,2391.0,101.0,68395.0,80.0,89140.0
+Devon Partnership NHS Trust,RWV,2007,2791.0,311.0,72727.0,9.0,103420.0
+Doncaster And South Humber Hlthcare NHS Trust,RXE,2007,5897.0,866.0,62953.0,3.0,88162.0
+Dorset Health Care NHS Trust,RDY,2007,1602.0,432.0,52284.0,5.0,71062.0
+Dudley Group Of Hospitals NHS Trust,RNA,2007,21323.0,1565.0,107140.0,110.0,192854.0
+Ealing Hospital NHS Trust,RC3,2007,23869.0,185.0,68981.0,967.0,112758.0
+East And North Hertfordshire NHS Trust,RWH,2007,41573.0,807.0,172835.0,229.0,265318.0
+East Cheshire NHS Trust,RJN,2007,11564.0,217.0,65283.0,-29.0,100224.0
+East Kent Hospitals NHS Trust,RVV,2007,66286.0,2441.0,224254.0,286.0,359203.0
+East Lancashire Hospitals NHS Trust,RXR,2007,29806.0,303.0,187348.0,97.0,282980.0
+East London And The City MH NHS Trust,RWK,2007,4276.0,796.0,102454.0,340.0,153616.0
+East Midlands Ambulance Service NHS Trust,RX9,2007,2648.0,12828.0,88621.0,2.0,123199.0
+East Of England Ambulance Service NHS Trust,RYC,2007,3638.0,23067.0,130240.0,40.0,186001.0
+East Sussex Hospitals NHS Trust,RXC,2007,34933.0,2111.0,158595.0,-57.0,228789.0
+Epsom And St Helier University Hospitals NHS Trust,RVR,2007,44719.0,2893.0,175680.0,55.0,272488.0
+Essex Rivers Healthcare NHS Trust,RDE,2007,27013.0,1706.0,101028.0,41.0,162166.0
+George Eliot Hospital NHS Trust,RLT,2007,12209.0,66.0,59559.0,71.0,89823.0
+Gloucestershire Partnership NHS Trust,RTQ,2007,2913.0,632.0,51149.0,35.0,72004.0
+Good Hope Hospital NHS Trust,RJH,2007,17979.0,185.0,84411.0,132.0,128992.0
+Great Ormond Street Hospital NHS Trust,RP4,2007,52782.0,2444.0,145561.0,1804.0,242040.0
+Great Western Ambulance Service NHS Trust,RX5,2007,1072.0,6277.0,41344.0,6.0,62219.0
+Hammersmith Hospitals NHS Trust,RQN,2007,97213.0,6727.0,272579.0,276.0,484259.0
+Hampshire Partnership NHS Trust,RW1,2007,4790.0,1018.0,125407.0,20.0,172536.0
+Heatherwood And Wexham Park Hosps NHS Trust,RD7,2007,24734.0,713.0,121007.0,660.0,177005.0
+Hereford Hospitals NHS Trust,RLQ,2007,12825.0,86.0,53574.0,49.0,91582.0
+Hertfordshire Partnership NHS Trust,RWR,2007,4158.0,1262.0,106969.0,-408.0,169091.0
+Hinchingbrooke Healthcare NHS Trust,RQQ,2007,14678.0,5.0,50028.0,90.0,82889.0
+Hull And East Yorkshire Hospitals NHS Trust,RWA,2007,70279.0,736.0,227596.0,0.0,358844.0
+Humber Mental Health Teaching NHS Trust,RV9,2007,930.0,252.0,53507.0,135.0,71228.0
+Ipswich Hospital NHS Trust,RGQ,2007,29590.0,493.0,115142.0,85.0,176632.0
+James Paget University Hospitals NHS Foundation Trust,RGP,2007,5920.0,37.0,30864.0,0.0,42515.0
+Kent And Medway NHS And Social Care Partnership NHS Trust,RXY,2007,7350.0,1244.0,129005.0,807.0,177433.0
+Kettering General Hospital NHS Trust,RNQ,2007,15577.0,189.0,90739.0,0.0,126357.0
+King's College Hospital NHS Foundation Trust,RJZ,2007,50092.0,2377.0,166084.0,806.0,273376.0
+Kingston Hospital NHS Trust,RAX,2007,20304.0,851.0,106743.0,38.0,158157.0
+Lancashire Care NHS Trust,RW5,2007,4218.0,513.0,111015.0,0.0,149300.0
+Leeds Mental Health Teaching NHS Trust,RGD,2007,3475.0,1461.0,73918.0,0.0,101426.0
+Leeds Teaching Hospitals NHS Trust,RR8,2007,156204.0,8746.0,484918.0,1726.0,743067.0
+Leicestershire Partnership NHS Trust,RT5,2007,5489.0,141.0,98255.0,-9.0,130090.0
+Lincolnshire Partnership NHS Trust,RP7,2007,1204.0,453.0,58408.0,10.0,85383.0
+London Ambulance Service NHS Trust,RRU,2007,4057.0,16154.0,160953.0,8.0,212068.0
+Luton And Dunstable Hospital NHS Foundation Trust,RC9,2007,8033.0,25.0,32857.0,26.0,50228.0
+Maidstone And Tunbridge Wells NHS Trust,RWF,2007,38475.0,516.0,155020.0,288.0,240714.0
+Manchester Mental Health And Social Care NHS Trust,TAE,2007,2103.0,331.0,56529.0,137.0,85455.0
+Mayday Healthcare NHS Trust,RJ6,2007,23692.0,1004.0,111526.0,519.0,161783.0
+Medway NHS Trust,RPA,2007,23094.0,220.0,108088.0,12.0,159504.0
+Mersey Care NHS Trust,RW4,2007,5668.0,435.0,143077.0,213.0,187810.0
+Mid Essex Hospital Services NHS Trust,RQ8,2007,27854.0,435.0,112359.0,19.0,182336.0
+Mid Staffordshire Gen Hospitals NHS Trust,RJD,2007,12987.0,234.0,77242.0,55.0,121754.0
+Mid Yorkshire Hospitals NHS Trust,RXF,2007,46180.0,655.0,215164.0,121.0,312769.0
+Milton Keynes General Hospital NHS Trust,RD8,2007,14946.0,165.0,76358.0,95.0,113705.0
+N Essex Mental Health Partnership NHS Trust,RRD,2007,2133.0,793.0,70301.0,0.0,116794.0
+Newcastle Upon Tyne Hospitals NHS Foundation Trust,RTD,2007,20562.0,161.0,58136.0,46.0,93807.0
+Newham University Hospital NHS Trust,RNH,2007,14129.0,1666.0,84943.0,10.0,135600.0
+Norfolk And Norwich Uni Hosp NHS Trust,RM1,2007,55686.0,3331.0,181032.0,375.0,309267.0
+Norfolk And Waveney MH Partnership NHS Trust,RMY,2007,2652.0,838.0,69113.0,49.0,100147.0
+North Bristol NHS Trust,RVJ,2007,55078.0,574.0,253655.0,589.0,373106.0
+North Cheshire Hospitals NHS Trust,RWW,2007,23627.0,318.0,113443.0,345.0,161762.0
+North Cumbria Acute Hospitals NHS Trust,RNL,2007,30929.0,1919.0,113859.0,82.0,180464.0
+North East Ambulance Service NHS Trust,RX6,2007,1108.0,7642.0,50298.0,0.0,71800.0
+North East London Mental Health NHS Trust,RAT,2007,3106.0,255.0,73282.0,28.0,98865.0
+North Lincolnshire And Goole Hosps NHS Trust,RJL,2007,32206.0,575.0,156921.0,-43.0,232351.0
+North Middlesex University Hospital NHS Trust,RAP,2007,19186.0,129.0,82159.0,1200.0,135698.0
+North Staffordshire Combined Healthcare NHS Trust,RLY,2007,2584.0,109.0,65297.0,44.0,89084.0
+North Tees And Hartlepool NHS Trust,RVW,2007,23711.0,485.0,123722.0,5.0,183937.0
+North West Ambulance Service NHS Trust,RX7,2007,3107.0,22248.0,138708.0,53.0,193940.0
+North West London Hospitals NHS Trust,RV8,2007,45148.0,2116.0,185383.0,280.0,289707.0
+Northampton General Hospital NHS Trust,RNS,2007,30041.0,844.0,116465.0,83.0,170167.0
+Northamptonshire Healthcare NHS Trust,RP1,2007,6148.0,914.0,67035.0,13.0,95537.0
+Northern Devon Healthcare NHS Trust,RBZ,2007,11582.0,539.0,65447.0,0.0,94519.0
+"Northumberland, Tyne And Wear NHS Trust",RX4,2007,9374.0,2117.0,208761.0,102.0,271905.0
+Northumbria Healthcare NHS Foundation Trust,RTF,2007,11087.0,133.0,56714.0,181.0,83690.0
+Nottingham University Hospitals NHS Trust,RX1,2007,108347.0,4681.0,370955.0,4557.0,576854.0
+Nottinghamshire Healthcare NHS Trust,RHA,2007,6126.0,1658.0,189769.0,36.0,250644.0
+Nth Cumbria MH And Learning Disab NHS Trust,RNN,2007,1454.0,272.0,35850.0,83.0,48277.0
+Nuffield Orthopaedic Centre NHS Trust,RBF,2007,14035.0,23.0,30638.0,-6.0,77316.0
+Oxford Learning Disability NHS Trust,RHX,2007,41.0,86.0,28485.0,0.0,34777.0
+Oxford Radcliffe Hospital NHS Trust,RTH,2007,98425.0,5596.0,298405.0,838.0,482957.0
+Oxfordshire And Buckinghamshire MH Partnership NHS Trust,RNU,2007,18099.0,502.0,86788.0,0.0,138377.0
+Oxleas NHS Foundation Trust,RPG,2007,270.0,21.0,6504.0,-12.0,11567.0
+Pennine Acute Hospitals NHS Trust,RW6,2007,62716.0,1055.0,311381.0,48.0,469088.0
+Pennine Care NHS Trust,RT2,2007,2719.0,226.0,75141.0,3.0,100088.0
+Plymouth Hospitals NHS Trust,RK9,2007,58777.0,165.0,195690.0,449.0,306926.0
+Poole Hospitals NHS Trust,RD3,2007,22150.0,380.0,102487.0,-19.0,148234.0
+Portsmouth Hospitals NHS Trust,RHU,2007,82125.0,4603.0,205559.0,403.0,366932.0
+Princess Alexandra Hospital NHS Trust,RQW,2007,19208.0,722.0,86304.0,32.0,131895.0
+Queen Elizabeth Hospital Kings Lynn NHS Trust,RCX,2007,16619.0,282.0,72901.0,14.0,110349.0
+Queen Elizabeth Hospital NHS Trust,RG2,2007,23124.0,257.0,92603.0,563.0,153006.0
+Queen Mary's Sidcup NHS Trust,RGZ,2007,14236.0,107.0,66948.0,84.0,98896.0
+Robert Jones And Agnes Hunt Orthopaedic NHS Trust,RL1,2007,15221.0,695.0,34213.0,21.0,59576.0
+Royal Berkshire Hospital NHS Foundation Trust,RHW,2007,7507.0,235.0,22972.0,20.0,34780.0
+Royal Brompton And Harefield NHS Trust,RT3,2007,47224.0,1806.0,123042.0,159.0,203545.0
+Royal Cornwall Hospitals NHS Trust,REF,2007,43072.0,557.0,154211.0,63.0,265400.0
+Royal Free Hampstead NHS Trust,RAL,2007,106860.0,710.0,211928.0,1277.0,367665.0
+Royal Liverpool Broadgreen Hospitals NHS Trust,RQ6,2007,60924.0,644.0,184807.0,123.0,306289.0
+Royal Liverpool Childrens NHS Trust,RBS,2007,18495.0,210.0,92932.0,75.0,132800.0
+Royal Orthopaedic Hospital NHS Foundation Trust,RRJ,2007,10378.0,128.0,22426.0,-214.0,39864.0
+Royal Surrey County Hospital NHS Trust,RA2,2007,30118.0,152.0,93567.0,-7.0,147951.0
+Royal United Hospital Bath NHS Trust,RD1,2007,27624.0,432.0,113564.0,415.0,173295.0
+Royal Wolverhampton Hospital NHS Trust,RL4,2007,36447.0,85.0,146445.0,77.0,227050.0
+Salford Royal NHS Foundation Trust,RM3,2007,13227.0,470.0,46036.0,-80.0,72955.0
+Salisbury NHS Foundation Trust,RNZ,2007,3116.0,80.0,15346.0,0.0,22753.0
+Sandwell And West Birmingham Hospitals NHS Trust,RXK,2007,39873.0,1205.0,219519.0,-702.0,315827.0
+Sandwell Mental Health Social Care NHS Trust,TAJ,2007,1148.0,53.0,32080.0,58.0,45255.0
+Scarborough And North East Yorkshire NHS Trust,RCC,2007,12471.0,250.0,67065.0,68.0,99269.0
+Sheffield Care NHS Trust,TAH,2007,3155.0,413.0,82078.0,109.0,100572.0
+Sheffield Children's NHS Foundation Trust,RCU,2007,3435.0,23.0,18460.0,46.0,26628.0
+Sherwood Forest Hospitals NHS Foundation Trust,RK5,2007,17481.0,194.0,95238.0,4.0,144783.0
+Shrewsbury And Telford Hospital NHS Trust,RXW,2007,33898.0,1821.0,137257.0,130.0,203478.0
+Somerset Partnership NHS And Soc Care NHS Trust,RH5,2007,1855.0,1207.0,36473.0,0.0,51769.0
+South Central Ambulance Service NHS Trust,RYE,2007,3363.0,11883.0,65967.0,5.0,100295.0
+South Devon Healthcare NHS Foundation Trust,RA9,2007,23559.0,844.0,100284.0,11.0,149596.0
+South Downs Health NHS Trust,RDR,2007,3401.0,369.0,44258.0,62.0,68883.0
+South East Coast Ambulance Service NHS Trust,RYD,2007,3410.0,10607.0,85561.0,5.0,122570.0
+South Essex Partnership NHS Foundation Trust,RWN,2007,92.0,7.0,5399.0,82.0,7620.0
+South London And Maudsley NHS Foundation Trust,RV5,2007,6755.0,806.0,127809.0,-5.0,181249.0
+South Staffordshire Healthcare NHS Foundation Trust,RRE,2007,140.0,64.0,5423.0,0.0,7025.0
+South Tees Hospitals NHS Trust,RTR,2007,64103.0,951.0,214381.0,-40.0,358292.0
+South Warwickshire General Hospitals NHS Trust,RJC,2007,15856.0,109.0,63661.0,190.0,101115.0
+South West Ambulance Service NHS Trust,RYF,2007,2346.0,9187.0,72277.0,27.0,102705.0
+South West London And St George's Mental Health NHS Trust,RQY,2007,3814.0,522.0,112481.0,50.0,157989.0
+South West Yorkshire Mental Health NHS Trust,RXG,2007,4310.0,1418.0,73520.0,8.0,97387.0
+Southampton University Hospitals NHS Trust,RHM,2007,71194.0,2684.0,242973.0,1164.0,378451.0
+Southend University Hospitals NHS Foundation Trust,RAJ,2007,5679.0,92.0,21157.0,0.0,30835.0
+Southport And Ormskirk Hospital NHS Trust,RVY,2007,13049.0,277.0,86744.0,125.0,122908.0
+St George's Healthcare NHS Trust,RJ7,2007,61986.0,2929.0,243837.0,406.0,380723.0
+St Helens And Knowsley Hospitals NHS Trust,RBN,2007,20381.0,153.0,124748.0,-14.0,193456.0
+St Mary's NHS Trust,RJ5,2007,51934.0,147.0,167174.0,847.0,277398.0
+Staffordshire Ambulance Service NHS Trust,RB7,2007,1092.0,1847.0,20809.0,0.0,28090.0
+Suffolk Mental Health Partnership NHS Trust,RT6,2007,1541.0,1135.0,59635.0,-71.0,80938.0
+Surrey And Borders Partnership NHS Trust,RXX,2007,4920.0,1605.0,121540.0,8.0,159704.0
+Surrey And Sussex Healthcare NHS Trust,RTP,2007,19071.0,1781.0,105167.0,629.0,172155.0
+Sussex Partnership NHS Trust,RX2,2007,5739.0,755.0,137193.0,651.0,193094.0
+Swindon And Marlborough NHS Trust,RN3,2007,22362.0,210.0,91259.0,76.0,158156.0
+Tameside And Glossop Acute Servs NHS Trust,RMP,2007,11733.0,208.0,74858.0,0.0,109699.0
+Taunton And Somerset NHS Trust,RBA,2007,29523.0,1196.0,106602.0,292.0,161198.0
+Tavistock And Portman NHS Foundation Trust,RNK,2007,15.0,2.0,10644.0,0.0,13295.0
+"Tees, Esk And Wear Valleys NHS Trust",RX3,2007,5849.0,2344.0,149245.0,-24.0,198538.0
+The Cardiothoracic Center Liverpool NHS Trust,RBQ,2007,23860.0,4.0,44947.0,0.0,80951.0
+The Hillingdon Hospital NHS Trust,RAS,2007,17718.0,200.0,95291.0,235.0,142533.0
+The Lewisham Hospital NHS Trust,RJ2,2007,19612.0,1282.0,102969.0,200.0,166695.0
+The Mid Cheshire Hospitals NHS Trust,RBT,2007,17318.0,266.0,86289.0,20.0,120678.0
+The Royal National Orthopaedic Hospital NHS Trust,RAN,2007,18549.0,566.0,40355.0,90.0,74060.0
+The Royal West Sussex NHS Trust,RPR,2007,15882.0,257.0,73992.0,31.0,112060.0
+Trafford Healthcare NHS Trust,RM4,2007,9136.0,81.0,60459.0,0.0,87059.0
+United Bristol Healthcare NHS Trust,RA7,2007,59125.0,303.0,237774.0,931.0,363205.0
+United Lincolnshire Hospitals NHS Trust,RWD,2007,48249.0,4144.0,204303.0,211.0,300799.0
+University Hospital Of North Staffordshire Hospital NHS Trust,RJE,2007,49852.0,419.0,209656.0,183.0,327414.0
+University Hospital Of South Manchester NHS Foundation Trust,RM2,2007,23282.0,265.0,90125.0,39.0,146346.0
+University Hospitals Coventry And Warwickshire NHS Trust,RKB,2007,51555.0,3134.0,210152.0,423.0,401094.0
+University Hospitals Of Leicester NHS Trust,RWE,2007,101742.0,2017.0,373852.0,638.0,577909.0
+University Hospitals Of Morecambe Bay NHS Trust,RTX,2007,28795.0,1797.0,141924.0,5.0,203993.0
+Walsall Hospitals NHS Trust,RBK,2007,19797.0,274.0,96932.0,41.0,142994.0
+Walton Neurology Centre NHS Trust,RET,2007,11495.0,0.0,25372.0,4.0,46285.0
+West Dorset General Hospitals NHS Trust,RBD,2007,20296.0,339.0,75493.0,-2.0,113502.0
+West Hertfordshire Hospitals NHS Trust,RWG,2007,29538.0,31.0,141333.0,149.0,221894.0
+West London Mental Health NHS Trust,RKL,2007,4050.0,410.0,164954.0,152.0,212594.0
+West Middlesex University NHS Trust,RFW,2007,12895.0,151.0,72212.0,771.0,119709.0
+West Midlands Ambulance Service NHS Trust,RYA,2007,2294.0,14122.0,77875.0,35.0,116970.0
+West Suffolk Hospital NHS Trust,RGR,2007,18322.0,1531.0,77468.0,95.0,113064.0
+Weston Area Health NHS Trust,RA3,2007,10205.0,93.0,52969.0,-2.0,74960.0
+Whipps Cross University Hospital NHS Trust,RGC,2007,25505.0,319.0,120876.0,547.0,190223.0
+Whittington Hospital NHS Trust,RKE,2007,19230.0,132.0,94811.0,77.0,137480.0
+Winchester And Eastleigh Healthcare NHS Trust,RN1,2007,15148.0,249.0,84899.0,30.0,127023.0
+Wirral Hospital NHS Trust,RBL,2007,30396.0,630.0,162544.0,-10.0,226470.0
+Worcestershire Acute Hospitals NHS Trust,RWP,2007,36570.0,1277.0,154740.0,108.0,257862.0
+Worcestershire Mental Health Partnership NHS Trust,RWQ,2007,3075.0,713.0,41975.0,50.0,59552.0
+Worthing And Southlands Hospitals NHS Trust,RPL,2007,15995.0,164.0,96517.0,2.0,144039.0
+"Wrightington, Wigan And Leigh NHS Trust",RRF,2007,27991.0,970.0,126866.0,178.0,193711.0
+Yeovil District Hospital NHS Foundation Trust,RA4,2007,1596.0,31.0,8406.0,63.0,13377.0
+York Hospitals NHS Trust,RCB,2007,30992.0,672.0,122949.0,223.0,180536.0
+Yorkshire Ambulance Service NHS Trust,RX8,2007,1647.0,14418.0,107071.0,653.0,147360.0
+5 Boroughs Partnership NHS Trust,RTV,2008,71994.0,1262.0,1060.0,323.0,0.0
+Airedale NHS Trust,RCF,2008,75536.0,393.0,646.0,369.0,0.0
+Ashford And St Peter's Hospitals NHS Trust,RTK,2008,116185.0,1210.0,911.0,365.0,372.0
+Avon And Wiltshire Mental Health Partnership NHS Trust,RVN,2008,129365.0,719.0,1406.0,152.0,296.0
+"Barking, Havering And Redbridge Hospitals NHS Trust",RF4,2008,237545.0,1896.0,1407.0,4080.0,987.0
+Barnet And Chase Farm Hospitals NHS Trust,RVL,2008,169879.0,1545.0,777.0,1496.0,0.0
+"Barnet, Enfield And Haringey Mental Health NHS Trust",RRP,2008,107135.0,283.0,926.0,1391.0,109.0
+Barts And The London NHS Trust,RNJ,2008,306535.0,1656.0,1474.0,168.0,927.0
+Bedford Hospital NHS Trust,RC1,2008,74797.0,476.0,621.0,666.0,32.0
+Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,RV7,2008,59974.0,572.0,965.0,512.0,599.0
+Berkshire Healthcare NHS Foundation Trust,RWX,2008,4715.0,0.0,86.0,6.0,0.0
+Birmingham And Solihull Mental Health NHS Trust,RXT,2008,144295.0,2329.0,1209.0,1047.0,0.0
+Birmingham Women's NHS Foundation Trust,RLU,2008,39311.0,39.0,606.0,592.0,12.0
+Blackpool Fylde And Wyre NHS Foundation Trust,RXL,2008,86273.0,95.0,537.0,326.0,152.0
+Bolton Hospitals NHS Trust,RMC,2008,116854.0,269.0,796.0,467.0,0.0
+Bradford District Care NHS Trust,TAD,2008,76170.0,120.0,955.0,2877.0,40.0
+Brighton And Sussex University Hospitals NHS Trust,RXH,2008,204141.0,1498.0,1468.0,3726.0,970.0
+Bromley Hospitals NHS Trust,RG3,2008,101386.0,362.0,700.0,2304.0,934.0
+Buckinghamshire Hospitals NHS Trust,RXQ,2008,157960.0,1733.0,1596.0,2128.0,386.0
+Burton Hospitals NHS Trust,RJF,2008,77665.0,113.0,769.0,138.0,226.0
+Calderstones NHS Trust,RJX,2008,38551.0,75.0,492.0,147.0,0.0
+Cambs & Peterborough MH Partnership NHS Trust,RT1,2008,87555.0,611.0,877.0,2017.0,471.0
+Camden And Islington NHS Foundation Trust,TAF,2008,74528.0,1716.0,854.0,0.0,978.0
+Central And North West London MH NHS Foundation Trust,RV3,2008,11169.0,42.0,68.0,111.0,0.0
+Central Manchester/ Manchester Children's University Hospitals NHS Trust,RW3,2008,317622.0,1701.0,1168.0,2608.0,0.0
+Cheshire And Wirral Partnership NHS Foundation Trust,RXA,2008,20692.0,79.0,152.0,43.0,27.0
+Cornwall Partnership NHS Trust,RJ8,2008,58397.0,282.0,682.0,1259.0,906.0
+Coventry And Warwickshire Partnership NHS Trust,RYG,2008,105834.0,418.0,1154.0,253.0,6549.0
+Cumbria Partnership NHS Foundation Trust,RNN,2008,21643.0,0.0,417.0,160.0,0.0
+Dartford And Gravesham NHS Trust,RN7,2008,67368.0,487.0,791.0,0.0,0.0
+Derbyshire Mental Health Services NHS Trust,RXM,2008,70855.0,436.0,750.0,2349.0,0.0
+Devon Partnership NHS Trust,RWV,2008,69164.0,51.0,728.0,275.0,178.0
+Dorset County Hospital NHS Foundation Trust,RBD,2008,13123.0,0.0,94.0,62.0,0.0
+Dudley Group Of Hospitals NHS Trust,RNA,2008,111805.0,1173.0,657.0,1633.0,97.0
+Ealing Hospital NHS Trust,RC3,2008,70045.0,251.0,785.0,852.0,371.0
+East And North Hertfordshire NHS Trust,RWH,2008,177155.0,618.0,1124.0,2296.0,2.0
+East Cheshire NHS Trust,RJN,2008,67733.0,134.0,490.0,241.0,653.0
+East Kent Hospitals NHS Trust,RVV,2008,229746.0,1310.0,1103.0,2963.0,0.0
+East Lancashire Hospitals NHS Trust,RXR,2008,193169.0,552.0,783.0,745.0,0.0
+East London NHS Foundation Trust,RWK,2008,62277.0,0.0,386.0,421.0,207.0
+East Midlands Ambulance Service NHS Trust,RX9,2008,95103.0,0.0,858.0,15549.0,390.0
+East Of England Ambulance Service NHS Trust,RYC,2008,133335.0,296.0,825.0,26251.0,0.0
+East Sussex Hospitals NHS Trust,RXC,2008,161779.0,247.0,1081.0,2034.0,144.0
+Epsom And St Helier University Hospitals NHS Trust,RVR,2008,177334.0,1670.0,984.0,3007.0,462.0
+Essex Rivers Healthcare NHS Trust,RDE,2008,104947.0,445.0,869.0,2213.0,0.0
+George Eliot Hospital NHS Trust,RLT,2008,61104.0,498.0,501.0,69.0,0.0
+Gloucestershire Partnership NHS Foundation Trust,RTQ,2008,13051.0,48.0,130.0,154.0,9.0
+Great Ormond Street Hospital NHS Trust,RP4,2008,152816.0,1664.0,744.0,2109.0,1154.0
+Great Western Ambulance Service NHS Trust,RX5,2008,47428.0,496.0,765.0,6978.0,0.0
+Greater Manchester West MH NHS Foundation Trust,RXV,2008,75554.0,148.0,780.0,325.0,706.0
+Hampshire Partnership NHS Trust,RW1,2008,128014.0,432.0,1189.0,936.0,724.0
+Heatherwood And Wexham Park Hosps NHS Foundation Trust,RD7,2008,20993.0,0.0,123.0,103.0,0.0
+Hereford Hospitals NHS Trust,RLQ,2008,56602.0,549.0,749.0,70.0,-54.0
+Hertfordshire Partnership NHS Foundation Trust,RWR,2008,33920.0,122.0,206.0,445.0,0.0
+Hinchingbrooke Healthcare NHS Trust,RQQ,2008,49225.0,250.0,617.0,8.0,0.0
+Hull And East Yorkshire Hospitals NHS Trust,RWA,2008,243260.0,839.0,884.0,837.0,121.0
+Humber Mental Health Teaching NHS Trust,RV9,2008,57330.0,148.0,738.0,688.0,565.0
+Imperial College Healthcare NHS Trust,RYJ,2008,458604.0,4709.0,1519.0,8092.0,1130.0
+Ipswich Hospital NHS Trust,RGQ,2008,118491.0,515.0,898.0,300.0,25.0
+Kent And Medway NHS And Social Care Partnership NHS Trust,RXY,2008,130151.0,39.0,585.0,1184.0,721.0
+Kettering General Hospital NHS Trust,RNQ,2008,97201.0,744.0,753.0,203.0,-390.0
+Kingston Hospital NHS Trust,RAX,2008,110486.0,1198.0,658.0,360.0,115.0
+Lancashire Care NHS Foundation Trust,RW5,2008,83060.0,25.0,342.0,326.0,0.0
+Leeds Partnership NHS Foundation Trust,RGD,2008,25736.0,97.0,314.0,492.0,0.0
+Leeds Teaching Hospitals NHS Trust,RR8,2008,494546.0,1202.0,866.0,9864.0,0.0
+Leicestershire Partnership NHS Trust,RT5,2008,98543.0,823.0,769.0,141.0,2453.0
+Lincolnshire Partnership NHS Foundation Trust,RP7,2008,29700.0,121.0,222.0,199.0,35.0
+London Ambulance Service NHS Trust,RRU,2008,167839.0,1519.0,702.0,23252.0,920.0
+Maidstone And Tunbridge Wells NHS Trust,RWF,2008,161701.0,3510.0,1150.0,830.0,0.0
+Manchester Mental Health And Social Care NHS Trust,TAE,2008,57357.0,414.0,1127.0,294.0,51.0
+Mayday Healthcare NHS Trust,RJ6,2008,114409.0,715.0,1022.0,1132.0,488.0
+Medway NHS Trust,RPA,2008,116579.0,287.0,580.0,209.0,0.0
+Mersey Care NHS Trust,RW4,2008,142353.0,658.0,912.0,445.0,857.0
+Mid Essex Hospital Services NHS Trust,RQ8,2008,115829.0,745.0,1025.0,168.0,75.0
+Mid Staffordshire NHS Foundation Trust,RJD,2008,66857.0,578.0,494.0,262.0,879.0
+Mid Yorkshire Hospitals NHS Trust,RXF,2008,221809.0,1030.0,1538.0,836.0,2192.0
+Milton Keynes Hospital NHS Foundation Trust,RD8,2008,40233.0,350.0,455.0,72.0,0.0
+Newham University Hospital NHS Trust,RNH,2008,91798.0,669.0,993.0,1473.0,753.0
+NHS Direct NHS Trust,RYH,2008,88051.0,3627.0,1051.0,194.0,184.0
+Norfolk And Norwich Uni Hosp NHS Trust,RM1,2008,183793.0,53.0,775.0,3272.0,480.0
+Norfolk And Waveney MH NHS Foundation Trust,RMY,2008,61672.0,45.0,602.0,677.0,225.0
+North Bristol NHS Trust,RVJ,2008,258980.0,1444.0,886.0,638.0,30.0
+North Cheshire Hospitals NHS Trust,RWW,2008,110399.0,286.0,901.0,1111.0,0.0
+North Cumbria Acute Hospitals NHS Trust,RNL,2008,121430.0,661.0,830.0,1856.0,0.0
+North East Ambulance Service NHS Trust,RX6,2008,54937.0,239.0,651.0,7952.0,0.0
+North East London Mental Health NHS Trust,RAT,2008,76435.0,1144.0,969.0,602.0,999.0
+North Essex Partnership NHS Foundation Trust,RRD,2008,33729.0,31.0,1102.0,397.0,0.0
+North Lincolnshire And Goole Hosps NHS Foundation Trust,RJL,2008,13088.0,8.0,85.0,48.0,0.0
+North Middlesex University Hospital NHS Trust,RAP,2008,82185.0,1161.0,1139.0,898.0,0.0
+North Staffordshire Combined Healthcare NHS Trust,RLY,2008,62885.0,133.0,727.0,102.0,262.0
+North Tees And Hartlepool NHS Foundation Trust,RVW,2008,85299.0,328.0,803.0,310.0,389.0
+North West Ambulance Service NHS Trust,RX7,2008,147535.0,338.0,1266.0,25700.0,0.0
+North West London Hospitals NHS Trust,RV8,2008,189594.0,509.0,828.0,1890.0,513.0
+Northampton General Hospital NHS Trust,RNS,2008,121300.0,331.0,908.0,696.0,0.0
+Northamptonshire Healthcare NHS Trust,RP1,2008,65228.0,573.0,996.0,842.0,0.0
+Northern Devon Healthcare NHS Trust,RBZ,2008,75120.0,69.0,929.0,681.0,0.0
+"Northumberland, Tyne And Wear NHS Trust",RX4,2008,214570.0,986.0,959.0,2485.0,348.0
+Nottingham University Hospitals NHS Trust,RX1,2008,377750.0,2227.0,744.0,4460.0,6007.0
+Nottinghamshire Healthcare NHS Trust,RHA,2008,191802.0,336.0,1231.0,1887.0,1251.0
+Nuffield Orthopaedic Centre NHS Trust,RBF,2008,31188.0,707.0,470.0,23.0,1297.0
+Oxford Learning Disability NHS Trust,RHX,2008,30615.0,269.0,752.0,112.0,0.0
+Oxford Radcliffe Hospital NHS Trust,RTH,2008,314921.0,2210.0,1571.0,5768.0,-240.0
+Oxfordshire And Buckinghamshire MH Partnership NHS Trust,RNU,2008,88459.0,672.0,836.0,494.0,-23.0
+Pennine Acute Hospitals NHS Trust,RW6,2008,316752.0,682.0,1180.0,1091.0,0.0
+Pennine Care NHS Trust,RT2,2008,79003.0,475.0,572.0,278.0,147.0
+Plymouth Hospitals NHS Trust,RK9,2008,207514.0,751.0,743.0,1578.0,59.0
+Poole Hospital NHS Foundation Trust,RD3,2008,62555.0,72.0,406.0,236.0,190.0
+Portsmouth Hospitals NHS Trust,RHU,2008,223714.0,3771.0,942.0,5026.0,206.0
+Princess Alexandra Hospital NHS Trust,RQW,2008,90691.0,1098.0,968.0,676.0,0.0
+Queen Elizabeth Hospital Kings Lynn NHS Trust,RCX,2008,77193.0,776.0,877.0,390.0,7.0
+Queen Elizabeth Hospital NHS Trust,RG2,2008,91284.0,673.0,842.0,555.0,20.0
+Queen Mary's Sidcup NHS Trust,RGZ,2008,68033.0,345.0,673.0,696.0,0.0
+Robert Jones And Agnes Hunt Orthopaedic NHS Trust,RL1,2008,35460.0,237.0,746.0,625.0,200.0
+"Rotherham, Doncaster And South Humber MH NHS Foundation Trust",RXE,2008,20257.0,93.0,284.0,303.0,0.0
+Royal Brompton And Harefield NHS Trust,RT3,2008,130963.0,438.0,719.0,1915.0,444.0
+Royal Cornwall Hospitals NHS Trust,REF,2008,161535.0,330.0,1065.0,427.0,8.0
+Royal Free Hampstead NHS Trust,RAL,2008,235191.0,2088.0,924.0,1549.0,0.0
+Royal Liverpool Broadgreen Hospitals NHS Trust,RQ6,2008,198673.0,1780.0,828.0,761.0,0.0
+Royal Liverpool Childrens NHS Trust,RBS,2008,97482.0,367.0,819.0,225.0,216.0
+Royal Surrey County Hospital NHS Trust,RA2,2008,99402.0,812.0,702.0,163.0,27.0
+Royal United Hospital Bath NHS Trust,RD1,2008,118462.0,1680.0,914.0,378.0,38.0
+Royal Wolverhampton Hospital NHS Trust,RL4,2008,145534.0,1736.0,1200.0,87.0,0.0
+Sandwell And West Birmingham Hospitals NHS Trust,RXK,2008,218920.0,2481.0,766.0,1265.0,1283.0
+Sandwell Mental Health Social Care NHS Trust,TAJ,2008,32554.0,28.0,839.0,48.0,0.0
+Scarborough And North East Yorkshire NHS Trust,RCC,2008,67257.0,356.0,637.0,277.0,531.0
+Sheffield Care NHS Trust,TAH,2008,81477.0,331.0,1018.0,562.0,0.0
+Shrewsbury And Telford Hospital NHS Trust,RXW,2008,144674.0,347.0,976.0,1775.0,0.0
+Somerset Partnership NHS And Soc Care NHS Trust,RH5,2008,37238.0,96.0,520.0,297.0,437.0
+South Central Ambulance Service NHS Trust,RYE,2008,70910.0,566.0,901.0,13982.0,0.0
+South Downs Health NHS Trust,RDR,2008,45433.0,504.0,702.0,349.0,145.0
+South East Coast Ambulance Service NHS Trust,RYD,2008,94445.0,601.0,1079.0,10636.0,290.0
+South Tees Hospitals NHS Trust,RTR,2008,221863.0,147.0,1509.0,939.0,108.0
+South Warwickshire General Hospitals NHS Trust,RJC,2008,65120.0,152.0,1102.0,115.0,0.0
+South West Ambulance Service NHS Trust,RYF,2008,77172.0,102.0,614.0,9393.0,92.0
+South West London And St George's Mental Health NHS Trust,RQY,2008,118290.0,2392.0,830.0,554.0,69.0
+South West Yorkshire Mental Health NHS Trust,RXG,2008,75367.0,144.0,949.0,1326.0,44.0
+Southampton University Hospitals NHS Trust,RHM,2008,260313.0,1436.0,1180.0,2766.0,272.0
+Southport And Ormskirk Hospital NHS Trust,RVY,2008,90198.0,8.0,585.0,230.0,249.0
+St George's Healthcare NHS Trust,RJ7,2008,256914.0,2053.0,1439.0,2727.0,448.0
+St Helens And Knowsley Hospitals NHS Trust,RBN,2008,124059.0,33.0,859.0,204.0,0.0
+Suffolk Mental Health Partnership NHS Trust,RT6,2008,59800.0,2103.0,1037.0,1179.0,499.0
+Surrey And Borders Partnership NHS Trust,RXX,2008,123541.0,496.0,1350.0,1650.0,1417.0
+Surrey And Sussex Healthcare NHS Trust,RTP,2008,101874.0,1958.0,833.0,1311.0,146.0
+Sussex Partnership NHS Trust,RX2,2008,144875.0,764.0,1477.0,1769.0,1034.0
+Swindon And Marlborough NHS Trust,RN3,2008,98103.0,377.0,621.0,338.0,0.0
+Tameside Hosptal NHS Foundation Trust,RMP,2008,65519.0,643.0,432.0,186.0,0.0
+Taunton And Somerset NHS Foundation Trust,RBA,2008,74729.0,484.0,612.0,851.0,0.0
+"Tees, Esk And Wear Valleys NHS Trust",RX3,2008,155295.0,1272.0,1459.0,2381.0,0.0
+The Cardiothoracic Center Liverpool NHS Trust,RBQ,2008,45899.0,0.0,494.0,8.0,28.0
+The Hillingdon Hospital NHS Trust,RAS,2008,97803.0,912.0,1040.0,688.0,2.0
+The Lewisham Hospital NHS Trust,RJ2,2008,105621.0,1740.0,981.0,962.0,718.0
+The Mid Cheshire Hospitals NHS Trust,RBT,2008,93217.0,419.0,959.0,434.0,90.0
+The Royal National Orthopaedic Hospital NHS Trust,RAN,2008,41476.0,565.0,783.0,1332.0,0.0
+The Royal West Sussex NHS Trust,RPR,2008,77537.0,161.0,656.0,224.0,-611.0
+Trafford Healthcare NHS Trust,RM4,2008,62286.0,477.0,657.0,81.0,0.0
+United Bristol Healthcare NHS Trust,RA7,2008,255616.0,1113.0,905.0,279.0,127.0
+United Lincolnshire Hospitals NHS Trust,RWD,2008,217552.0,826.0,958.0,3959.0,-767.0
+University Hospital Of North Staffordshire Hospital NHS Trust,RJE,2008,222601.0,337.0,776.0,4259.0,170.0
+University Hospitals Coventry And Warwickshire NHS Trust,RKB,2008,212373.0,3756.0,965.0,915.0,1747.0
+University Hospitals Of Leicester NHS Trust,RWE,2008,377916.0,1932.0,2066.0,1373.0,693.0
+University Hospitals Of Morecambe Bay NHS Trust,RTX,2008,148054.0,618.0,668.0,2037.0,17.0
+Walsall Hospitals NHS Trust,RBK,2008,97803.0,1819.0,702.0,220.0,3207.0
+Walton Neurology Centre NHS Trust,RET,2008,27312.0,0.0,738.0,0.0,0.0
+West Hertfordshire Hospitals NHS Trust,RWG,2008,137346.0,985.0,889.0,1380.0,109.0
+West London Mental Health NHS Trust,RKL,2008,171768.0,403.0,1355.0,362.0,721.0
+West Middlesex University NHS Trust,RFW,2008,77694.0,288.0,641.0,166.0,0.0
+West Midlands Ambulance Service NHS Trust,RYA,2008,102555.0,177.0,1479.0,15778.0,1655.0
+West Suffolk Hospital NHS Trust,RGR,2008,82113.0,262.0,866.0,1369.0,0.0
+Weston Area Health NHS Trust,RA3,2008,53216.0,171.0,582.0,172.0,0.0
+Whipps Cross University Hospital NHS Trust,RGC,2008,120197.0,1521.0,809.0,331.0,17.0
+Whittington Hospital NHS Trust,RKE,2008,101333.0,1461.0,951.0,273.0,64.0
+Winchester And Eastleigh Healthcare NHS Trust,RN1,2008,87072.0,1261.0,852.0,270.0,241.0
+Wirral University Teaching Hospital NHS Foundation Trust,RBL,2008,41605.0,0.0,221.0,129.0,0.0
+Worcestershire Acute Hospitals NHS Trust,RWP,2008,162834.0,47.0,720.0,1109.0,870.0
+Worcestershire Mental Health Partnership NHS Trust,RWQ,2008,41400.0,141.0,438.0,728.0,0.0
+Worthing And Southlands Hospitals NHS Trust,RPL,2008,100796.0,0.0,721.0,149.0,147.0
+"Wrightington, Wigan And Leigh NHS Trust",RRF,2008,132836.0,1102.0,846.0,1007.0,880.0
+Yorkshire Ambulance Service NHS Trust,RX8,2008,109125.0,809.0,930.0,15408.0,794.0
+5 Boroughs Partnership NHS Trust,RTV,2009,74443.0,567.0,938.0,363.0,65.0
+Airedale NHS Trust,RCF,2009,81186.0,219.0,675.0,359.0,1.0
+Alder Hey Childrens NHS Foundation Trust,RBS,2009,34989.0,164.0,369.0,139.0,0.0
+Ashford And St Peter's Hospitals NHS Trust,RTK,2009,126035.0,1678.0,1489.0,407.0,52.0
+Avon And Wiltshire Mental Health Partnership NHS Trust,RVN,2009,134133.0,1025.0,1515.0,190.0,0.0
+"Barking, Havering And Redbridge University Hospitals NHS Trust",RF4,2009,258085.0,2820.0,846.0,4223.0,0.0
+Barnet And Chase Farm Hospitals NHS Trust,RVL,2009,189465.0,996.0,912.0,1744.0,12.0
+"Barnet, Enfield And Haringey Mental Health NHS Trust",RRP,2009,109310.0,490.0,700.0,1466.0,13.0
+Barts And The London NHS Trust,RNJ,2009,331148.0,8484.0,1935.0,230.0,15.0
+Bedford Hospital NHS Trust,RC1,2009,80263.0,504.0,609.0,643.0,0.0
+Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,RV7,2009,53336.0,262.0,1159.0,382.0,110.0
+Birmingham And Solihull Mental Health NHS Foundation Trust,RXT,2009,36747.0,626.0,313.0,277.0,0.0
+Bradford District Care NHS Trust,TAD,2009,79281.0,258.0,925.0,3182.0,154.0
+Brighton And Sussex University Hospitals NHS Trust,RXH,2009,226675.0,509.0,1328.0,4272.0,183.0
+Bromley Hospitals NHS Trust,RG3,2009,103617.0,1185.0,1312.0,1862.0,12.0
+Buckinghamshire Hospitals NHS Trust,RXQ,2009,167983.0,811.0,1181.0,2314.0,0.0
+Burton Hospitals NHS Foundation Trust,RJF,2009,47807.0,183.0,477.0,73.0,34.0
+Calderstones NHS Trust,RJX,2009,41989.0,205.0,551.0,140.0,0.0
+Cambridgeshire And Peterborough NHS Foundation Trust,RT1,2009,15266.0,115.0,151.0,337.0,0.0
+Central Manchester University Hospitals NHS Foundation Trust,RW3,2009,252086.0,1441.0,984.0,1815.0,0.0
+Colchester Hospital University NHS Foundation Trust,RDE,2009,9236.0,19.0,84.0,154.0,0.0
+Cornwall Partnership NHS Trust,RJ8,2009,49958.0,461.0,630.0,1005.0,25.0
+Coventry And Warwickshire Partnership NHS Trust,RYG,2009,104630.0,432.0,1401.0,465.0,146.0
+Dartford And Gravesham NHS Trust,RN7,2009,73770.0,647.0,862.0,0.0,24.0
+Derbyshire Mental Health Services NHS Trust,RXM,2009,73198.0,496.0,866.0,2381.0,140.0
+Devon Partnership NHS Trust,RWV,2009,71768.0,43.0,760.0,348.0,0.0
+Dudley And Walsall Mental Health Partnership NHS Trust,RYK,2009,23950.0,348.0,320.0,30.0,32.0
+Ealing Hospital NHS Trust,RC3,2009,77298.0,633.0,799.0,840.0,12.0
+East And North Hertfordshire NHS Trust,RWH,2009,195632.0,1313.0,1171.0,2997.0,15.0
+East Cheshire NHS Trust,RJN,2009,72586.0,355.0,634.0,230.0,11.0
+East Kent Hospitals University NHS Foundation Trust,RVV,2009,229612.0,1880.0,1094.0,3468.0,0.0
+East Lancashire Hospitals NHS Trust,RXR,2009,208019.0,1297.0,866.0,1126.0,0.0
+East Midlands Ambulance Service NHS Trust,RX9,2009,101531.0,41.0,892.0,17436.0,74.0
+East Of England Ambulance Service NHS Trust,RYC,2009,147890.0,717.0,945.0,31249.0,32.0
+East Sussex Hospitals NHS Trust,RXC,2009,176990.0,558.0,753.0,2193.0,0.0
+Epsom And St Helier University Hospitals NHS Trust,RVR,2009,193390.0,2817.0,1212.0,3783.0,16.0
+George Eliot Hospital NHS Trust,RLT,2009,63582.0,165.0,677.0,73.0,90.0
+Great Ormond Street Hospital NHS Trust,RP4,2009,169403.0,1745.0,886.0,2826.0,189.0
+Great Western Ambulance Service NHS Trust,RX5,2009,55892.0,210.0,755.0,8699.0,0.0
+Great Western Hospitals NHS Foundation Trust,RN3,2009,71269.0,247.0,396.0,231.0,76.0
+Hampshire Partnership NHS Trust,RW1,2009,138281.0,442.0,1296.0,1045.0,23.0
+Hereford Hospitals NHS Trust,RLQ,2009,61894.0,369.0,858.0,53.0,0.0
+Hinchingbrooke Healthcare NHS Trust,RQQ,2009,52568.0,181.0,592.0,197.0,0.0
+Hull And East Yorkshire Hospitals NHS Trust,RWA,2009,262691.0,600.0,1421.0,946.0,186.0
+Humber Mental Health Teaching NHS Trust,RV9,2009,60079.0,714.0,1391.0,455.0,77.0
+Imperial College Healthcare NHS Trust,RYJ,2009,486837.0,1678.0,1310.0,8707.0,501.0
+Ipswich Hospital NHS Trust,RGQ,2009,125094.0,675.0,690.0,401.0,25.0
+Kent And Medway NHS And Social Care Partnership NHS Trust,RXY,2009,133569.0,260.0,734.0,1055.0,52.0
+Kettering General Hospital NHS Foundation Trust,RNQ,2009,61303.0,390.0,378.0,191.0,23.0
+Kingston Hospital NHS Trust,RAX,2009,117644.0,1481.0,648.0,1229.0,95.0
+Leeds Teaching Hospitals NHS Trust,RR8,2009,529749.0,965.0,935.0,9843.0,0.0
+Leicestershire Partnership NHS Trust,RT5,2009,99090.0,1089.0,839.0,182.0,0.0
+Liverpool Heart And Chest Hospital NHS Trust,RBQ,2009,48284.0,0.0,561.0,41.0,0.0
+London Ambulance Service NHS Trust,RRU,2009,192167.0,1155.0,745.0,23528.0,1.0
+Maidstone And Tunbridge Wells NHS Trust,RWF,2009,183706.0,4239.0,1030.0,1004.0,0.0
+Manchester Mental Health And Social Care NHS Trust,TAE,2009,61452.0,944.0,1116.0,294.0,0.0
+Mayday Healthcare NHS Trust,RJ6,2009,118848.0,711.0,1038.0,1260.0,0.0
+Mersey Care NHS Trust,RW4,2009,146508.0,269.0,1095.0,388.0,0.0
+Mid Essex Hospital Services NHS Trust,RQ8,2009,132208.0,627.0,1111.0,220.0,0.0
+Mid Yorkshire Hospitals NHS Trust,RXF,2009,241088.0,945.0,1614.0,700.0,0.0
+Newham University Hospital NHS Trust,RNH,2009,99127.0,2186.0,992.0,1741.0,127.0
+NHS Direct NHS Trust,RYH,2009,97512.0,7279.0,1243.0,1835.0,120.0
+Norfolk And Norwich University Hospitals NHS Foundation Trust,RM1,2009,16903.0,2.0,66.0,261.0,0.0
+North Bristol NHS Trust,RVJ,2009,281231.0,2156.0,843.0,515.0,0.0
+North Cumbria University Hospitals NHS Trust,RNL,2009,129431.0,1383.0,661.0,1884.0,84.0
+North East Ambulance Service NHS Trust,RX6,2009,57095.0,508.0,651.0,9023.0,10.0
+North East London NHS Foundation Trust,RAT,2009,13283.0,174.0,165.0,81.0,0.0
+North Middlesex University Hospital NHS Trust,RAP,2009,88234.0,537.0,998.0,952.0,0.0
+North Staffordshire Combined Healthcare NHS Trust,RLY,2009,65273.0,361.0,678.0,117.0,84.0
+North West Ambulance Service NHS Trust,RX7,2009,161267.0,675.0,959.0,27873.0,44.0
+North West London Hospitals NHS Trust,RV8,2009,207790.0,686.0,828.0,1831.0,24.0
+Northampton General Hospital NHS Trust,RNS,2009,132943.0,196.0,1041.0,732.0,11.0
+Northamptonshire Healthcare NHS Trust,RP1,2009,69167.0,756.0,1021.0,839.0,0.0
+Northern Devon Healthcare NHS Trust,RBZ,2009,81667.0,72.0,904.0,607.0,0.0
+"Northumberland, Tyne And Wear NHS Trust",RX4,2009,219031.0,674.0,1080.0,2557.0,0.0
+Nottingham University Hospitals NHS Trust,RX1,2009,400242.0,1974.0,728.0,4166.0,193.0
+Nottinghamshire Healthcare NHS Trust,RHA,2009,203910.0,886.0,1104.0,2049.0,10.0
+Nuffield Orthopaedic Centre NHS Trust,RBF,2009,31773.0,454.0,565.0,21.0,1.0
+Oxford Learning Disability NHS Trust,RHX,2009,32398.0,221.0,970.0,120.0,0.0
+Oxford Radcliffe Hospital NHS Trust,RTH,2009,350074.0,3856.0,1607.0,5973.0,0.0
+Pennine Acute Hospitals NHS Trust,RW6,2009,332821.0,699.0,1192.0,1029.0,21.0
+Pennine Care NHS Foundation Trust,RT2,2009,21096.0,272.0,152.0,78.0,16.0
+Plymouth Hospitals NHS Trust,RK9,2009,227563.0,1393.0,800.0,1659.0,56.0
+Portsmouth Hospitals NHS Trust,RHU,2009,243808.0,2637.0,1062.0,5103.0,0.0
+Princess Alexandra Hospital NHS Trust,RQW,2009,101054.0,780.0,992.0,656.0,15.0
+Queen Elizabeth Hospital Kings Lynn NHS Trust,RCX,2009,87648.0,601.0,1041.0,418.0,0.0
+Queen Elizabeth Hospital NHS Trust,RG2,2009,96978.0,1012.0,873.0,507.0,0.0
+Queen Mary's Sidcup NHS Trust,RGZ,2009,75920.0,740.0,1090.0,1101.0,66.0
+Robert Jones And Agnes Hunt Orthopaedic NHS Trust,RL1,2009,38713.0,537.0,774.0,616.0,114.0
+Royal Bolton Hospital NHS Foundation Trust,RMC,2009,60769.0,154.0,421.0,222.0,0.0
+Royal Brompton And Harefield NHS Trust,RT3,2009,139513.0,990.0,779.0,2162.0,85.0
+Royal Cornwall Hospitals NHS Trust,REF,2009,177339.0,241.0,1617.0,1673.0,6.0
+Royal Free Hampstead NHS Trust,RAL,2009,262958.0,5461.0,676.0,412.0,13.0
+Royal Liverpool Broadgreen Hospitals NHS Trust,RQ6,2009,211338.0,1467.0,1013.0,2873.0,0.0
+Royal Surrey County Hospital NHS Trust,RA2,2009,114676.0,1715.0,786.0,185.0,16.0
+Royal United Hospital Bath NHS Trust,RD1,2009,126588.0,969.0,847.0,1575.0,0.0
+Royal Wolverhampton Hospital NHS Trust,RL4,2009,154782.0,2496.0,1217.0,85.0,75.0
+Sandwell And West Birmingham Hospitals NHS Trust,RXK,2009,237814.0,2906.0,861.0,1422.0,76.0
+Sandwell Mental Health And Social Care NHS Foundation Trust,TAJ,2009,28012.0,51.0,769.0,7.0,18.0
+Scarborough And North East Yorkshire NHS Trust,RCC,2009,70904.0,684.0,748.0,484.0,0.0
+Sheffield Health And Social Care NHS Foundation Trust,TAH,2009,21382.0,17.0,241.0,128.0,0.0
+Shrewsbury And Telford Hospital NHS Trust,RXW,2009,159572.0,721.0,1008.0,2603.0,0.0
+Somerset Partnership NHS Foundation Trust,RH5,2009,3519.0,4.0,37.0,23.0,3.0
+South Central Ambulance Service NHS Trust,RYE,2009,76819.0,1334.0,937.0,19227.0,0.0
+South Downs Health NHS Trust,RDR,2009,46907.0,539.0,782.0,341.0,125.0
+South East Coast Ambulance Service NHS Trust,RYD,2009,104089.0,650.0,1003.0,12692.0,116.0
+South Tees Hospitals NHS Trust,RTR,2009,238497.0,529.0,1680.0,1255.0,0.0
+South Warwickshire General Hospitals NHS Trust,RJC,2009,69362.0,305.0,983.0,107.0,112.0
+South West Ambulance Service NHS Trust,RYF,2009,87634.0,447.0,654.0,9927.0,0.0
+South West London And St George's Mental Health NHS Trust,RQY,2009,118784.0,2102.0,980.0,1122.0,0.0
+South West Yorkshire Mental Health NHS Trust,RXG,2009,80786.0,323.0,1025.0,1387.0,35.0
+Southampton University Hospitals NHS Trust,RHM,2009,294699.0,1412.0,1255.0,2837.0,0.0
+Southport And Ormskirk Hospital NHS Trust,RVY,2009,93744.0,209.0,650.0,212.0,0.0
+St George's Healthcare NHS Trust,RJ7,2009,278149.0,3655.0,1700.0,2947.0,0.0
+St Helens And Knowsley Hospitals NHS Trust,RBN,2009,134128.0,162.0,894.0,308.0,0.0
+Suffolk Mental Health Partnership NHS Trust,RT6,2009,63820.0,2538.0,1009.0,1161.0,0.0
+Surrey And Borders Partnership NHS Foundation Trust,RXX,2009,11030.0,24.0,120.0,117.0,28.0
+Surrey And Sussex Healthcare NHS Trust,RTP,2009,115212.0,1978.0,881.0,1357.0,194.0
+Sussex Partnership NHS Foundation Trust,RX2,2009,50184.0,5.0,518.0,477.0,0.0
+"Tees, Esk And Wear Valleys NHS Foundation Trust",RX3,2009,40719.0,454.0,380.0,674.0,48.0
+The Dudley Group Of Hospitals NHS Foundation Trust,RNA,2009,60692.0,296.0,368.0,865.0,0.0
+The Hillingdon Hospital NHS Trust,RAS,2009,107347.0,1121.0,980.0,973.0,154.0
+The Lewisham Hospital NHS Trust,RJ2,2009,111240.0,2232.0,825.0,1011.0,96.0
+The Royal National Orthopaedic Hospital NHS Trust,RAN,2009,44266.0,551.0,846.0,1682.0,0.0
+The Royal West Sussex NHS Trust,RPR,2009,85000.0,652.0,753.0,232.0,143.0
+Trafford Healthcare NHS Trust,RM4,2009,64345.0,1483.0,615.0,76.0,0.0
+United Lincolnshire Hospitals NHS Trust,RWD,2009,233082.0,1120.0,1042.0,4175.0,0.0
+University Hospital Of North Staffordshire Hospital NHS Trust,RJE,2009,240918.0,1294.0,768.0,3989.0,182.0
+University Hospitals Coventry And Warwickshire NHS Trust,RKB,2009,236531.0,3410.0,824.0,1224.0,50.0
+University Hospitals Of Bristol NHS Foundation Trust,RA7,2009,45125.0,46.0,151.0,47.0,0.0
+University Hospitals Of Leicester NHS Trust,RWE,2009,402119.0,1308.0,1003.0,1929.0,0.0
+University Hospitals Of Morecambe Bay NHS Trust,RTX,2009,157216.0,311.0,708.0,2096.0,0.0
+Walsall Hospitals NHS Trust,RBK,2009,99944.0,2375.0,1074.0,1022.0,64.0
+Walton Neurology Centre NHS Trust,RET,2009,29875.0,77.0,802.0,0.0,43.0
+Warrington And Halton Hospitals NHS Foundation Trust,RWW,2009,78728.0,383.0,662.0,1066.0,0.0
+West Hertfordshire Hospitals NHS Trust,RWG,2009,147435.0,807.0,1037.0,1276.0,18.0
+West London Mental Health NHS Trust,RKL,2009,181221.0,263.0,1329.0,352.0,16.0
+West Middlesex University NHS Trust,RFW,2009,84936.0,234.0,914.0,288.0,0.0
+West Midlands Ambulance Service NHS Trust,RYA,2009,111842.0,112.0,1790.0,17781.0,0.0
+West Suffolk Hospital NHS Trust,RGR,2009,90831.0,262.0,900.0,1462.0,0.0
+Weston Area Health NHS Trust,RA3,2009,57372.0,64.0,797.0,177.0,36.0
+Whipps Cross University Hospital NHS Trust,RGC,2009,130113.0,2148.0,960.0,767.0,0.0
+Whittington Hospital NHS Trust,RKE,2009,112369.0,917.0,1026.0,149.0,13.0
+Winchester And Eastleigh Healthcare NHS Trust,RN1,2009,93345.0,549.0,663.0,341.0,70.0
+Worcestershire Acute Hospitals NHS Trust,RWP,2009,175109.0,597.0,718.0,1135.0,0.0
+Worcestershire Mental Health Partnership NHS Trust,RWQ,2009,43520.0,47.0,725.0,728.0,0.0
+Worthing And Southlands Hospitals NHS Trust,RPL,2009,113690.0,1021.0,988.0,232.0,251.0
+"Wrightington, Wigan And Leigh NHS Foundation Trust",RRF,2009,92725.0,345.0,683.0,715.0,0.0
+Yorkshire Ambulance Service NHS Trust,RX8,2009,131914.0,1879.0,1013.0,18222.0,159.0
