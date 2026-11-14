@@ -73,7 +73,7 @@
         ].                  
 
 
-    <Trust> a rr:TriplesMap;
+<Trust> a rr:TriplesMap;
     rml:logicalSource [
         rml:source "trusts.csv";
         rml:referenceFormulation ql:CSV] ;
@@ -98,7 +98,7 @@
         rr:objectMap [ rml:reference "town"; rr:TermType rr:IRI;]
     ] ;
     rr:predicateObjectMap [
-        rr:predicate ex:region ;
+        rr:predicate ex:Region ;
         rr:objectMap [
             a rr:RefObjectMap ;
             rr:parentTriplesMap <Region> ;
@@ -109,3 +109,52 @@
         rr:predicate ex:regionCode;
         rr:objectMap [ rml:reference "NHSER"; rr:TermType rr:IRI;]
     ].
+<TrustSpend>
+    rml:logicalSource [
+            rml:source "trustSpending.csv";
+            rml:referenceFormulation ql:CSV] ;
+            rr:subjectMap [
+            rr:template "http://foo.example/TrustSpend/{orgCode}/{year}" ;
+            rr:class ex:Region ;
+        ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rml:reference "name"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:orgCode;
+        rr:objectMap [ rml:reference "orgCode"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:trust ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Trust> ;
+            rr:joinCondition [rr:child "orgCode" ; rr:parent "orgCode"; ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:year;
+        rr:objectMap [ rml:reference "year"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:supplies;
+        rr:objectMap [ rml:reference "supplies"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:transport;
+        rr:objectMap [ rml:reference "transport"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:staffCosts;
+        rr:objectMap [ rml:reference "staffCosts"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:debt;
+        rr:objectMap [ rml:reference "debt"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:totalCosts;
+        rr:objectMap [ rml:reference "totalCosts"; rr:TermType rr:IRI;]
+    ].
+
