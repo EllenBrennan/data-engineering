@@ -9,7 +9,7 @@ from pathlib import Path
 import win32com.client 
 excel = win32com.client.Dispatch('Excel.Application')
 
-filePath = Path("trusts.xls").resolve()
+filePath = Path("trustSpending.xls").resolve()
 wb = excel.Workbooks.open(str(filePath))
 
 #can't extract the sheet names here, so manually just listing the sheet names
@@ -43,7 +43,7 @@ for sheetName in sheets:
     })
     year = year + 1
     clean = entries.dropna() #getting rid of empty cells
-    clean.to_csv('trusts.csv' , mode = 'a', header=headers, index=False)
+    clean.to_csv('trustSpending.csv' , mode = 'a', header=headers, index=False)
     headers = False #headers were being added in everytime I added a sheet in, so turned them off after the first sheet so it would turn to one table
 
 #print(clean.head())
