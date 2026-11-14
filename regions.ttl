@@ -40,6 +40,10 @@
         ] ;
     ] ;
     rr:predicateObjectMap [
+        rr:predicate ex:regionCode ;
+        rr:objectMap [rml:reference "ad_commissioningregioncode" ; rr:TermType rr:IRI]
+    ] ;
+    rr:predicateObjectMap [
             rr:predicate ex:population ;
             rr:objectMap [ rml:reference "popsize"; rr:TermType rr:IRI;]
         ] ;
@@ -68,4 +72,40 @@
             rr:objectMap [ rml:reference "gpcontactunsuccessful_1.count"; rr:TermType rr:IRI;]
         ].                  
 
-    
+
+    <Trust> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "trusts.csv";
+        rml:referenceFormulation ql:CSV] ;
+        rr:subjectMap [
+        rr:template "http://foo.example/Trust/{orgCode}" ;
+        rr:class ex:Region ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rml:reference "name"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:orgCode;
+        rr:objectMap [ rml:reference "orgCode"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:town;
+        rr:objectMap [ rml:reference "town"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:town;
+        rr:objectMap [ rml:reference "town"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:region ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Region> ;
+            rr:joinCondition [rr:child "NHSER" ; rr:parent "NHSER24CDH"; ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:regionCode;
+        rr:objectMap [ rml:reference "NHSER"; rr:TermType rr:IRI;]
+    ].
