@@ -7,4 +7,36 @@
 @base <http://example.com/base/> .
 
 <Region> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "regionToCodes.csv";
+        rml:referenceFormulation ql:CSV] ;
+    rr:subjectMap [
+        rr:template "http://foo.example/Region/{NHSER24NM}" ;
+        rr:class ex:Region ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rml:reference "NHSER24NM"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:code;
+        rr:objectMap [ rml:reference "NHSER24CDH"; rr:TermType rr:IRI;]
+    ].
+
+<Score> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "gpPracticeScores.csv";
+        rml:referenceFormulation ql:CSV] ;
+    rr:subjectMap [
+        rr:template "http://foo.example/Score/{ad_commissioningregionname}" ;
+        rr:class ex:score ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:regionScore ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Region> ;
+            rr:joinCondition [rr:child "ad_commissioningregioncode" ; rr:parent "NHSER24CDH"; ]
+        ]
+    ].
     
