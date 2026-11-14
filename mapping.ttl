@@ -1,44 +1,205 @@
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix dbpedia: <http://dbpedia.org/ontology/> .
 @prefix ex: <http://example.com/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rml: <http://semweb.mmlab.be/ns/rml#> .
 @prefix ql: <http://semweb.mmlab.be/ns/ql#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @base <http://example.com/base/> .
 
-<AddressTriplesMap> a rr:TriplesMap;
-	rml:logicalSource [
-		rml:source "Addresses.csv";
-		rml:referenceForumulation ql:CSV] ;
-	rr:subjectMap [
-		rr:template "http://foo.example/city/{ID}" ;
-		rr:class dbpedia:Place ;
-	] ;
-	rr:predicateObjectMap [
-		rr:predicate foaf:name ;
-		rr:objectMap [ rml:reference "cities"; rr:TermType rr:IRI; ]
-	]. 
+<Region> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "regionToCodes.csv";
+        rml:referenceFormulation ql:CSV] ;
+    rr:subjectMap [
+        rr:template "http://foo.example/Region/{NHSER24NM}" ;
+        rr:class ex:Region ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rml:reference "NHSER24NM"; rr:datatype xsd:string;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:code;
+        rr:objectMap [ rml:reference "NHSER24CDH"; rr:datatype xsd:string;]
+    ].
+
+<Score> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "gpPracticeScores.csv";
+        rml:referenceFormulation ql:CSV] ;
+    rr:subjectMap [
+        rr:template "http://foo.example/Score/{ad_commissioningregionname}" ;
+        rr:class ex:Score ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:regionScore ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Region> ;
+            rr:joinCondition [rr:child "ad_commissioningregioncode" ; rr:parent "NHSER24CDH"; ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:regionCode ;
+        rr:objectMap [rml:reference "ad_commissioningregioncode" ; rr:datatype xsd:string]
+    ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:population ;
+            rr:objectMap [ rml:reference "popsize"; rr:datatype xsd:double;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:phoneResponse ;
+            rr:objectMap [ rml:reference "localgpservicesphone_1.count"; rr:datatype xsd:double;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:webResponse ;
+            rr:objectMap [ rml:reference "localgpserviceswebsite_1.count"; rr:datatype xsd:double;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:appointmentResponse ;
+            rr:objectMap [ rml:reference "localgpservicesapp_1.count"; rr:datatype xsd:double;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:receptionResponse ;
+            rr:objectMap [ rml:reference "localgpservicesreception_1.count"; rr:datatype xsd:double;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:serviceUse ;
+            rr:objectMap [ rml:reference "localgpservicesused_1.count"; rr:datatype xsd:double;]
+        ] ; 
+    rr:predicateObjectMap [
+            rr:predicate ex:missedCalls ;
+            rr:objectMap [ rml:reference "gpcontactunsuccessful_1.count"; rr:datatype xsd:double;]
+        ].                  
 
 
-<PersonTriplesMap> a rr:TriplesMap;
-	rml:logicalSource [
-		rml:source "People.csv";
-		rml:referenceForumulation ql:CSV] ;
-	rr:subjectMap [
-		rr:template "http://foo.example/Person/{ID}" ;
-		rr:class foaf:Person ;
-	] ;
-	rr:predicateObjectMap [
-		rr:predicate foaf:name ;
-		rr:objectMap [ rml:reference "fname"; rr:TermType rr:IRI; ]
-	] ;
-	rr:predicateObjectMap [
-		rr:predicate foaf:based_near ;
-		rr:objectMap [
-			a rr:RefObjectMap ;
-			rr:parentTriplesMap <AddressTriplesMap> ;
-			rr:joinCondition [ rr:child "addr" ; rr:parent "ID"; ]
-		]
-	]. 
+<Trust> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "trusts.csv";
+        rml:referenceFormulation ql:CSV] ;
+        rr:subjectMap [
+        rr:template "http://foo.example/Trust/{orgCode}" ;
+        rr:class ex:Trust ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rml:reference "name"; rr:datatype xsd:string]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:orgCode;
+        rr:objectMap [ rml:reference "orgCode"; rr:datatype xsd:string;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:town;
+        rr:objectMap [ rml:reference "town"; rr:datatype xsd:string;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:Region ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Region> ;
+            rr:joinCondition [rr:child "NHSER" ; rr:parent "NHSER24CDH"; ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:regionCode;
+        rr:objectMap [ rml:reference "NHSER"; rr:datatype xsd:string;]
+    ].
+<TrustSpend> a rr:TriplesMap;
+    rml:logicalSource [
+            rml:source "trustSpending.csv";
+            rml:referenceFormulation ql:CSV] ;
+            rr:subjectMap [
+            rr:template "http://foo.example/TrustSpend/{orgCode}/{year}" ;
+            rr:class ex:TrustSpend ;
+        ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rml:reference "name"; rr:datatype xsd:string;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:orgCode;
+        rr:objectMap [ rml:reference "orgCode"; rr:datatype xsd:string;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:trust ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Trust> ;
+            rr:joinCondition [rr:child "orgCode" ; rr:parent "orgCode"; ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:year;
+        rr:objectMap [ rml:reference "year"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:supplies;
+        rr:objectMap [ rml:reference "supplies"; rr:datatype xsd:double;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:transport;
+        rr:objectMap [ rml:reference "transport"; rr:datatype xsd:double;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:staffCosts;
+        rr:objectMap [ rml:reference "staffCosts"; rr:datatype xsd:double;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:debt;
+        rr:objectMap [ rml:reference "debt"; rr:TermType rr:IRI;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:totalCosts;
+        rr:objectMap [ rml:reference "totalCosts"; rr:datatype xsd:double;]
+    ].
+
+<staffRecord> a rr:TriplesMap;
+    rml:logicalSource [
+        rml:source "regional.csv";
+        rml:referenceFormulation ql:CSV] ;
+        rr:subjectMap [
+        rr:template "http://foo.example/staffRecord/{regionName}/{year}/{month}" ;
+        rr:class ex:staffRecord ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:regionName;
+        rr:objectMap [ rml:reference "regionName"; rr:datatype xsd:string;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:employeesInRegion ;
+        rr:objectMap [
+            a rr:RefObjectMap ;
+            rr:parentTriplesMap <Region> ;
+            rr:joinCondition [rr:child "regionName" ; rr:parent "NHSER24CDH"; ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:year;
+        rr:objectMap [ rml:reference "year"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:month;
+        rr:objectMap [ rml:reference "month"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:total_staff;
+        rr:objectMap [ rml:reference "total_staff"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:doctors;
+        rr:objectMap [ rml:reference "doctors"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:studentDoctors;
+        rr:objectMap [ rml:reference "studentDoctors"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:nurses;
+        rr:objectMap [ rml:reference "nurses"; rr:datatype xsd:integer;]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate ex:infrastructure;
+        rr:objectMap [ rml:reference "infrastructure"; rr:datatype xsd:integer;]
+    ].
