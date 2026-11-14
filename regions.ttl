@@ -37,6 +37,35 @@
             a rr:RefObjectMap ;
             rr:parentTriplesMap <Region> ;
             rr:joinCondition [rr:child "ad_commissioningregioncode" ; rr:parent "NHSER24CDH"; ]
-        ]
-    ].
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:population ;
+            rr:objectMap [ rml:reference "popsize"; rr:TermType rr:IRI;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:phoneResponse ;
+            rr:objectMap [ rml:reference "localgpservicesphone_1.count"; rr:TermType rr:IRI;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:webResponse ;
+            rr:objectMap [ rml:reference "localgpserviceswebsite_1.count"; rr:TermType rr:IRI;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:appointmentResponse ;
+            rr:objectMap [ rml:reference "localgpservicesapp_1.count"; rr:TermType rr:IRI;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:receptionResponse ;
+            rr:objectMap [ rml:reference "localgpservicesreception_1.count"; rr:TermType rr:IRI;]
+        ] ;
+    rr:predicateObjectMap [
+            rr:predicate ex:serviceUse ;
+            rr:objectMap [ rml:reference "localgpservicesused_1.count"; rr:TermType rr:IRI;]
+        ] ; 
+    rr:predicateObjectMap [
+            rr:predicate ex:missedCalls ;
+            rr:objectMap [ rml:reference "gpcontactunsuccessful_1.count"; rr:TermType rr:IRI;]
+        ].                  
+
     
